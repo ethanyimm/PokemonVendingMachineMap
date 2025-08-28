@@ -1,0 +1,1633 @@
+Frys	Q00350	150 E Old West Hwy	Apache Junction, AZ
+Frys	Q00351	1575 N Dysart Rd	Avondale, AZ
+Frys	Q00607	11425 W Buckeye Rd	Avondale, AZ
+Frys	Q00352	1300 S Watson Rd	Buckeye, AZ
+Frys	Q00373	19600 W Indian School Rd	Buckeye, AZ
+Frys	Q01912	4625 S Miller Rd	Buckeye, AZ
+Frys	Q00339	1385 E Florence Blvd	Casa Grande, AZ
+Frys	Q00606	2858 N Pinal Ave	Casa Grande, AZ
+Safeway	Q01342	1637 N Trekell Rd	Casa Grande, AZ
+Frys	Q00599	2010 S Alma School Rd	Chandler, AZ
+Frys	Q00614	2929 E Ocotillo Rd	Chandler, AZ
+Safeway	Q01283	1159 W Chandler Blvd	Chandler, AZ
+Safeway	Q01312	1060 E Ray Rd	Chandler, AZ
+Albertsons	Q01319	3145 S Alma School Rd	Chandler, AZ
+WinCo Foods	Q01562	222 W Willis Rd	Chandler, AZ
+Safeway	Q01392	3325 N Hunt Hwy	Florence, AZ
+Frys	Q00321	855 W Warner Rd	Gilbert, AZ
+Frys	Q00356	87 E Williams Field Rd	Gilbert, AZ
+Frys	Q00374	714 S Val Vista Dr	Gilbert, AZ
+Frys	Q00605	6470 S Higley Rd	Gilbert, AZ
+Frys	Q01103	1845 E Baseline Rd	Gilbert, AZ
+WinCo Foods	Q01219	1363 N Arizona Ave	Gilbert, AZ
+Frys	Q01771	1455 N Higley Rd	Gilbert, AZ
+Frys	Q01872	3490 S Power Rd	Gilbert, AZ
+Frys	Q01921	3261 E Pecos Rd	Gilbert, AZ
+Frys	Q00609	20220 N 59th Ave	Glendale, AZ
+Frys	Q00775	5116 W Olive Ave	Glendale, AZ
+Frys	Q00776	4329 W Northern Ave	Glendale, AZ
+WinCo Foods	Q01397	5850 W Bell Rd	Glendale, AZ
+Frys	Q01922	6625 W Happy Valley Rd	Glendale, AZ
+Frys	Q00616	16380 W Yuma Rd	Goodyear, AZ
+Safeway	Q01311	14175 W Indian School Rd	Goodyear, AZ
+Safeway	Q01923	440 N Estrella Pkwy	Goodyear, AZ
+Safeway	Q01933	9890 Estrella Pkwy	Goodyear, AZ
+Safeway	Q01508	1305 W Duval Mine Rd	Green Valley, AZ
+Safeway	Q01563	260 W Continental Rd	Green Valley, AZ
+Frys	Q00598	5140 W Baseline Rd	Laveen Village, AZ
+Safeway	Q01290	5035 W Baseline Rd	Laveen Village, AZ
+Frys	Q00367	13730 W Camelback Rd	Litchfield Park, AZ
+Frys	Q01078	11350 W Tangerine Rd	Marana, AZ
+Frys	Q01937	12100 N Thornydale Rd	Marana, AZ
+Frys	Q00594	20797 N John Wayne Pkwy	Maricopa, AZ
+Frys	Q00366	1935 N Stapley Dr	Mesa, AZ
+Frys	Q00385	435 S Ellsworth Rd	Mesa, AZ
+Frys	Q00600	2724 S Signal Butte Rd	Mesa, AZ
+Frys	Q00610	2727 E Broadway Rd	Mesa, AZ
+Safeway	Q01287	1225 W Guadalupe Rd	Mesa, AZ
+Safeway	Q01332	1902 W Main St	Mesa, AZ
+Safeway	Q01341	3622 E Southern Ave	Mesa, AZ
+Safeway	Q01383	4316 S Signal Butte Rd	Mesa, AZ
+Safeway	Q01385	1855 N Power Rd	Mesa, AZ
+Safeway	Q01544	12122 N Rancho Vistoso Blvd	Oro Valley, AZ
+Frys	Q01901	10661 N Oracle Rd	Oro Valley, AZ
+Frys	Q00340	7455 W Cactus Rd	Peoria, AZ
+Frys	Q00343	8375 W Deer Valley Rd	Peoria, AZ
+Frys	Q00347	9043 W Olive Ave	Peoria, AZ
+Frys	Q00358	25401 N Lake Pleasant Pkwy	Peoria, AZ
+Safeway	Q01343	10641 W Olive Ave	Peoria, AZ
+Frys	Q00318	3616 E Ray Rd	Phoenix, AZ
+Frys	Q00333	1815 W Glendale Ave	Phoenix, AZ
+Frys	Q00337	520 E Baseline Rd	Phoenix, AZ
+Frys	Q00346	3949 E Chandler Blvd	Phoenix, AZ
+Frys	Q00349	4025 E Thunderbird Rd	Phoenix, AZ
+Frys	Q00353	26300 Norterra Pkwy	Phoenix, AZ
+Frys	Q00357	1311 E Bell Rd	Phoenix, AZ
+Frys	Q00359	3246 E Bell Rd	Phoenix, AZ
+Frys	Q00361	4230 W McDowell Rd	Phoenix, AZ
+Frys	Q00363	39508 N Daisy Mountain Dr	Phoenix, AZ
+Frys	Q00364	744 W Camelback Rd	Phoenix, AZ
+Frys	Q00365	100 E Jefferson St	Phoenix, AZ
+Frys	Q00369	3036 E Thomas Rd	Phoenix, AZ
+Frys	Q00371	4204 W Cactus Rd	Phoenix, AZ
+Frys	Q00375	3511 W Peoria Ave	Phoenix, AZ
+Frys	Q00377	4724 N 20th St	Phoenix, AZ
+Frys	Q00379	4707 E Shea Blvd	Phoenix, AZ
+Frys	Q00382	4505 E Thomas Rd	Phoenix, AZ
+Frys	Q00733	2250 E Baseline Rd	Phoenix, AZ
+Frys	Q00756	2800 W Dove Valley Rd	Phoenix, AZ
+Safeway	Q01282	4005 E Chandler Blvd	Phoenix, AZ
+Safeway	Q01292	1334 E Chandler Blvd	Phoenix, AZ
+Safeway	Q01301	810 E Glendale Ave	Phoenix, AZ
+Safeway	Q01303	4747 E Elliot Rd	Phoenix, AZ
+Safeway	Q01306	6202 S 16th St	Phoenix, AZ
+Safeway	Q01314	3132 E Camelback Rd	Phoenix, AZ
+Safeway	Q01328	520 W Osborn Rd	Phoenix, AZ
+Safeway	Q01329	4747 E Greenway Rd	Phoenix, AZ
+WinCo Foods	Q01336	330 W Bell Rd	Phoenix, AZ
+Safeway	Q01347	13440 N 7th St	Phoenix, AZ
+Albertsons	Q01817	8035 N 19th Ave	Phoenix, AZ
+Frys	Q01980	8325 W Indian School Rd	Phoenix, AZ
+Frys	Q01986	3421 W Thunderbird Rd	Phoenix, AZ
+Frys	Q01987	2727 W Bell Rd	Phoenix, AZ
+Frys	Q00596	22265 E Queen Creek Rd	Queen Creek, AZ
+Frys	Q00604	25105 S Ellsworth Rd	Queen Creek, AZ
+Safeway	Q01348	40950 N Ironwood Dr	Queen Creek, AZ
+Safeway	Q01389	18495 E Queen Creek Rd	Queen Creek, AZ
+Frys	Q00360	155 W Combs Rd	San Tan Valley, AZ
+Frys	Q00593	542 E Hunt Hwy	San Tan Valley, AZ
+Frys	Q00341	8900 E Vía Linda	Scottsdale, AZ
+Frys	Q00424	10450 N 90th St	Scottsdale, AZ
+Frys	Q01237	7770 E McDowell Rd	Scottsdale, AZ
+Safeway	Q01340	6501 E Greenway Pkwy Bldg 4	Scottsdale, AZ
+Safeway	Q01350	7920 E Chaparral Rd	Scottsdale, AZ
+Frys	Q00354	10660 Grand Ave	Sun City, AZ
+Frys	Q00368	19403 N R H Johnson Blvd	Sun City West, AZ
+Frys	Q00344	15215 N Cotton Ln	Surprise, AZ
+Frys	Q00345	13982 W Waddell Rd	Surprise, AZ
+Frys	Q00355	16400 W Pat Tillman Blvd	Surprise, AZ
+Safeway	Q01276	17049 W Bell Rd	Surprise, AZ
+Safeway	Q01296	13828 W Waddell Rd	Surprise, AZ
+WinCo Foods	Q01874	16925 W Bell Rd	Surprise, AZ
+Frys	Q00323	3232 S Mill Ave	Tempe, AZ
+Frys	Q00334	1835 E Guadalupe Rd	Tempe, AZ
+Frys	Q00618	3255 S Rural Rd	Tempe, AZ
+Safeway	Q01971	926 E Broadway Rd	Tempe, AZ
+Frys	Q01985	9900 S Rural Rd	Tempe, AZ
+Frys	Q00879	9401 E 22nd St	Tucson, AZ
+Frys	Q01025	7050 E Golf Links Rd	Tucson, AZ
+Safeway	Q01495	4752 E Sunrise Dr	Tucson, AZ
+Safeway	Q01507	1940 E Broadway Blvd	Tucson, AZ
+Safeway	Q01511	2140 W Grant Rd	Tucson, AZ
+Safeway	Q01548	9050 E Valencia Rd	Tucson, AZ
+Safeway	Q01555	9125 E Tanque Verde Rd	Tucson, AZ
+Safeway	Q01558	9100 N Silverbell Rd	Tucson, AZ
+Albertsons	Q01564	1350 N Silverbell Rd	Tucson, AZ
+Safeway	Q01565	2940 W Valencia Rd	Tucson, AZ
+Safeway	Q01566	6360 E Golf Links Rd	Tucson, AZ
+Frys	Q01983	555 E Grant Rd	Tucson, AZ
+Safeway	Q01556	13380 E Mary Ann Cleveland Way	Vail, AZ
+Safeway	Q01036	2227 S Shore Center	Alameda, CA
+Safeway	Q01268	2600 5th St	Alameda, CA
+Safeway	Q01528	103 American Canyon Rd	American Canyon, CA
+Food 4 Less	Q00330	1616 W Katella Ave	Anaheim, CA
+Albertsons	Q00491	810 S State College Blvd	Anaheim, CA
+Vons	Q00695	5600 E Santa Ana Canyon Rd	Anaheim, CA
+Safeway	Q01333	16 Rancho del Mar	Aptos, CA
+Albertsons	Q00467	298 Live Oak Ave	Arcadia, CA
+Vons	Q00715	745 W Naomi Ave	Arcadia, CA
+Food 4 Less	Q00319	9635 Laurel Canyon Blvd	Arleta, CA
+Safeway	Q00918	2550 Bell Rd	Auburn, CA
+Food 4 Less	Q00573	3000 Baldwin Park Blvd	Baldwin Park, CA
+Albertsons	Q01691	300 S Highland Springs Ave	Banning, CA
+Food 4 Less	Q00711	6901 Eastern Ave	Bell Gardens, CA
+Safeway	Q01083	1100 El Camino Real	Belmont, CA
+Safeway	Q01274	50 Solano Square	Benicia, CA
+Safeway	Q01020	1444 Shattuck Pl	Berkeley, CA
+WinCo Foods	Q00597	6700 Lone Tree Wy	Brentwood, CA
+Vons	Q00314	301 N Pass Ave	Burbank, CA
+Albertsons	Q00523	26521 Agoura Rd	Calabasas, CA
+Vons	Q01242	940 Arneill RD	Camarillo, CA
+Safeway	Q00974	3380 Coach Ln	Cameron Park, CA
+Safeway	Q00971	2341 S Winchester Blvd	Campbell, CA
+Safeway	Q01539	950 W Hamilton Ave	Campbell, CA
+Vons	Q00875	2560 El Camino Real	Carlsbad, CA
+Vons	Q01024	6951 El Camino Real	Carlsbad, CA
+Safeway	Q00989	4040 Manzanita Ave	Carmichael, CA
+Albertsons	Q00722	200 E Sepulveda Blvd	Carson, CA
+Safeway	Q01102	4015 E Castro Valley Blvd	Castro Valley, CA
+Albertsons	Q00509	12013 Central Ave	Chino, CA
+Albertsons	Q00519	15970 Los Serranos Country Club Dr	Chino Hills, CA
+Albertsons	Q01243	3255 Grand Ave	Chino Hills, CA
+Vons	Q00331	1745 Eastlake Pkwy	Chula Vista, CA
+Vons	Q01032	2250 Otay Lakes Rd	Chula Vista, CA
+Albertsons	Q01670	720 3rd Ave	Chula Vista, CA
+Ralphs	Q01791	659 E Palomar St	Chula Vista, CA
+Safeway	Q00941	7301 Greenback Ln	Citrus Heights, CA
+Food 4 Less	Q01692	1150 N Pepper Ave	Colton, CA
+Food 4 Less	Q00409	1900 W Rosecrans Ave	Compton, CA
+Safeway	Q00970	2600 Willow Pass Rd	Concord, CA
+Safeway	Q01279	4309 Clayton Rd	Concord, CA
+Albertsons	Q00388	260 W Foothill Pkwy	Corona, CA
+Vons	Q00508	535 N McKinley St	Corona, CA
+Vons	Q00511	11800 De Palma Rd	Corona, CA
+Safeway	Q01512	137 Corte Madera Town Center	Corte Madera, CA
+Vons	Q01711	2701 Harbor Blvd	Costa Mesa, CA
+Ralphs	Q01781	380 E 17th St	Costa Mesa, CA
+Pavilions	Q00517	11030 Jefferson Blvd	Culver City, CA
+Safeway	Q01486	20620 W Homestead Rd	Cupertino, CA
+Safeway	Q01516	601 Westlake Center	Daly City, CA
+Safeway	Q01151	3496 Camino Tassajara	Danville, CA
+Safeway	Q01320	1235 Stratford Ave	Dixon, CA
+Food 4 Less	Q00311	13525 Lakewood Blvd	Downey, CA
+Ralphs	Q00739	8626 Firestone Blvd	Downey, CA
+Safeway	Q00928	7499 Dublin Blvd	Dublin, CA
+Safeway	Q00930	4440 Tassajara Rd	Dublin, CA
+Albertsons	Q00655	7070 Archibald Ave	Eastvale, CA
+Vons	Q01167	6170 Hamner Ave	Eastvale, CA
+Albertsons	Q00474	1608 Broadway	El Cajon, CA
+Vons	Q00886	1201 Avocado Ave	El Cajon, CA
+Albertsons	Q01247	2899 Jamacha Rd	El Cajon, CA
+Safeway	Q01018	11450 San Pablo Ave	El Cerrito, CA
+Lucky	Q01758	1000 El Cerrito Plaza	El Cerrito, CA
+Safeway	Q00938	2207 Francisco Dr	El Dorado Hills, CA
+Safeway	Q00977	3383 Bass Lake Rd	El Dorado Hills, CA
+Safeway	Q00931	5021 Laguna Blvd	Elk Grove, CA
+WinCo Foods	Q01530	8124 Sheldon Rd	Elk Grove, CA
+Pak N Save	Q01060	3889 San Pablo Ave	Emeryville, CA
+Albertsons	Q00890	1570 W Valley Pkwy	Escondido, CA
+Vons	Q00892	1000 W El Norte Pkwy	Escondido, CA
+Vons	Q01030	351 W Felicita Ave	Escondido, CA
+Food 4 Less	Q01250	644 N Broadway	Escondido, CA
+Safeway	Q00943	5450 Dewey Dr	Fair Oaks, CA
+Safeway	Q01334	2401 Waterman Blvd	Fairfield, CA
+Albertsons	Q00476	1133 S Mission Rd	Fallbrook, CA
+Vons	Q00481	636 Ventura St	Fillmore, CA
+WinCo Foods	Q00690	200 Blue Ravine Rd	Folsom, CA
+Safeway	Q00981	1850 Prairie City Rd	Folsom, CA
+WinCo Foods	Q00493	14338 Foothill Blvd	Fontana, CA
+Vons	Q00563	7390 Cherry Ave	Fontana, CA
+Safeway	Q01239	921 E Hillsdale Blvd	Foster City, CA
+Albertsons	Q00328	16061 Brookhurst St	Fountain Valley, CA
+Ralphs	Q01721	18405 Brookhurst St	Fountain Valley, CA
+Safeway	Q01337	2010 Freedom Blvd	Freedom, CA
+Safeway	Q00973	39100 Argonaut Way	Fremont, CA
+Safeway	Q01026	3902 Washington Blvd	Fremont, CA
+Albertsons	Q00332	1930 N Placentia Ave	Fullerton, CA
+Ralphs	Q01726	1121 N Harbor Blvd	Fullerton, CA
+Vons	Q00717	11861 Valley View St	Garden Grove, CA
+Vons	Q00658	1260 W Redondo Beach Blvd	Gardena, CA
+Albertsons	Q00732	1735 Artesia Blvd	Gardena, CA
+Food 4 Less	Q01249	1299 Artesia Blvd	Gardena, CA
+Vons	Q00417	561 N Glendale Ave	Glendale, CA
+Vons	Q00699	311 W Los Feliz Rd	Glendale, CA
+Albertsons	Q00427	133 W Rte 66	Glendora, CA
+Vons	Q01245	163 S Turnpike Rd	Goleta, CA
+Vons	Q00702	16830 San Fernando Mission Blvd	Granada Hills, CA
+Vons	Q00707	2122 S Hacienda Blvd	Hacienda Heights, CA
+Safeway	Q01277	70 Cabrillo Hwy	Half Moon Bay, CA
+Food 4 Less	Q00315	14500 Ocean Gate Ave	Hawthorne, CA
+FoodMaxx	Q00626	27300 Hesperian Blvd	Hayward, CA
+Safeway	Q01051	22280 Foothill Blvd	Hayward, CA
+Safeway	Q01278	231 W Jackson St	Hayward, CA
+Safeway	Q01502	1115 Vine St	Healdsburg, CA
+WinCo Foods	Q00453	4602 W Florida Ave	Hemet, CA
+Safeway	Q00939	4080 San Pablo Ave	Hercules, CA
+Vons	Q00721	715 Pier Ave	Hermosa Beach, CA
+Vons	Q00322	5922 Edinger Ave	Huntington Beach, CA
+Albertsons	Q00325	7201 Yorktown Ave	Huntington Beach, CA
+Albertsons	Q00483	19640 Beach Blvd	Huntington Beach, CA
+Food 4 Less	Q00418	6920 Santa Fe Ave	Huntington Park, CA
+Food 4 Less	Q00380	3200 W Century Blvd	Inglewood, CA
+Vons	Q00422	500 E Manchester Blvd	Inglewood, CA
+Albertsons	Q00416	14201 Jeffrey Rd	Irvine, CA
+Albertsons	Q00590	4541 Campus Dr	Irvine, CA
+Albertsons	Q01285	6601 Quail Hill Pkwy	Irvine, CA
+Safeway	Q00922	12110 Industry Blvd	Jackson, CA
+Vons	Q01241	3233 Foothill Blvd	La Crescenta-Montrose, CA
+Ralphs	Q01713	2675 Foothill Blvd	La Crescenta-Montrose, CA
+Albertsons	Q00583	1800 W Whittier Blvd	La Habra, CA
+Pavilions	Q00576	7544 Girard Ave	La Jolla, CA
+Ralphs	Q01842	8657 Villa La Jolla Dr	La Jolla, CA
+Albertsons	Q00878	8920 Fletcher Pkwy	La Mesa, CA
+Albertsons	Q01777	15200 Rosecrans Ave	La Mirada, CA
+Food 4 Less	Q00338	1821 N Hacienda Blvd	La Puente, CA
+Vons	Q00515	1600 Foothill Blvd	La Verne, CA
+Albertsons	Q00498	27702 Crown Valley Pkwy B	Ladera Ranch, CA
+Albertsons	Q01007	30241 Golden Lantern	Laguna Niguel, CA
+Albertsons	Q00518	30901 Riverside Dr	Lake Elsinore, CA
+Vons	Q00317	4226 Woodruff Ave	Lakewood, CA
+Vons	Q00740	5500 Woodruff Ave	Lakewood, CA
+WinCo Foods	Q01286	3400 E South St	Lakewood, CA
+Safeway	Q00987	1554 First St	Livermore, CA
+Safeway	Q01049	4495 First St	Livermore, CA
+Vons	Q00654	1800-2000 Ximeno Ave	Long Beach, CA
+Food 4 Less	Q00720	3210 E Anaheim St	Long Beach, CA
+Albertsons	Q01019	101 E Willow St	Long Beach, CA
+Safeway	Q01517	160 1st St	Los Altos, CA
+Food 4 Less	Q00324	5100 N Figueroa St	Los Angeles, CA
+Vons	Q00336	3461 W 3rd St	Los Angeles, CA
+Food 4 Less	Q00386	11507 S Western Ave	Los Angeles, CA
+Food 4 Less	Q00391	11840 Wilmington Ave	Los Angeles, CA
+Food 4 Less	Q00411	18318 Vanowen St	Los Angeles, CA
+Food 4 Less	Q00413	1820 W Slauson Ave	Los Angeles, CA
+Food 4 Less	Q00420	2750 1st St	Los Angeles, CA
+Vons	Q00425	4520 W Sunset Blvd	Los Angeles, CA
+Pavilions	Q00514	6534 Platt Ave	Los Angeles, CA
+Vons	Q00577	7789 Foothill Blvd	Los Angeles, CA
+Vons	Q00719	7311 N Figueroa St	Los Angeles, CA
+Food 4 Less	Q01694	12689 Glenoaks Blvd	Los Angeles, CA
+Ralphs	Q01719	4760 W Pico Blvd	Los Angeles, CA
+Safeway	Q00978	470 N Santa Cruz Ave	Los Gatos, CA
+Safeway	Q00983	15549 Union Ave	Los Gatos, CA
+Safeway	Q00980	1187 S Main St	Manteca, CA
+Pavilions	Q00512	4365 Glencoe Ave	Marina del Rey, CA
+Safeway	Q01109	6688 Alhambra Ave	Martinez, CA
+Safeway	Q01330	525 El Camino Real	Menlo Park, CA
+Safeway	Q01510	525 El Camino Real	Millbrae, CA
+Safeway	Q00982	555 E Calaveras Blvd	Milpitas, CA
+Vons	Q00501	10321 Sepulveda Blvd	Mission Hills, CA
+Albertsons	Q00575	23072 Alicia Pkwy	Mission Viejo, CA
+Pavilions	Q01270	26022 Marguerite Pkwy	Mission Viejo, CA
+Vons	Q00335	130 W Foothill Blvd	Monrovia, CA
+Albertsons	Q00704	2469 Via Campo	Montebello, CA
+Vons	Q01792	4241 Tierra Rejada Rd	Moorpark, CA
+Safeway	Q01233	1355 Moraga Way	Moraga, CA
+WinCo Foods	Q00497	12880 Day St	Moreno Valley, CA
+Food 4 Less	Q01796	24440 Alessandro Blvd	Moreno Valley, CA
+Safeway	Q00932	235 Tennant Station	Morgan Hill, CA
+Safeway	Q00985	840 E Dunne Ave	Morgan Hill, CA
+Safeway	Q01271	645 San Antonio Rd	Mountain View, CA
+Safeway	Q01513	1750 Miramonte Ave	Mountain View, CA
+Safeway	Q01538	570 N Shoreline Blvd	Mountain View, CA
+Albertsons	Q00485	39140 Winchester Rd	Murrieta, CA
+Albertsons	Q00495	41000 California Oaks Rd	Murrieta, CA
+Vons	Q01184	24160 Lyons Ave	Newhall, CA
+Pavilions	Q00995	21181 Newport Coast Dr	Newport Beach, CA
+Food 4 Less	Q00419	16208 Parthenia St	North Hills, CA
+Food 4 Less	Q00412	8035 Webb Ave	North Hollywood, CA
+Safeway	Q01519	5720 Nave Dr	Novato, CA
+FoodMaxx	Q00984	3000 E 9th St	Oakland, CA
+Safeway	Q01126	5100 Broadway	Oakland, CA
+Safeway	Q01164	4100 Redwood Rd	Oakland, CA
+Safeway	Q01267	6310 College Ave	Oakland, CA
+Albertsons	Q00668	3450 Marron Rd	Oceanside, CA
+Albertsons	Q00751	4150 Oceanside Blvd	Oceanside, CA
+Vons	Q01005	845 College Blvd	Oceanside, CA
+WinCo Foods	Q01300	2245 S El Camino Real	Oceanside, CA
+Ralphs	Q01658	101 Old Grove Rd	Oceanside, CA
+Food 4 Less	Q01675	2246 S Euclid Ave	Ontario, CA
+Vons	Q00591	2684 N Tustin St	Orange, CA
+WinCo Foods	Q01251	8701 Greenback Ln	Orangevale, CA
+Vons	Q00494	2101 N Rose Ave	Oxnard, CA
+Vons	Q01722	1291 S Victoria Ave	Oxnard, CA
+Safeway	Q01344	1380 Linda Mar Blvd	Pacifica, CA
+Safeway	Q01387	709 Hickey Blvd	Pacifica, CA
+Vons	Q00372	2355 E Colorado Blvd	Pasadena, CA
+WinCo Foods	Q01730	3150 Case Rd	Perris, CA
+Safeway	Q01492	701 Sonoma Mountain Pkwy	Petaluma, CA
+Safeway	Q01525	389 S McDowell Blvd	Petaluma, CA
+Lucky	Q01757	1530 Fitzgerald Dr	Pinole, CA
+Safeway	Q00969	3955 Missouri Flat Rd	Placerville, CA
+Safeway	Q00967	600 Patterson Blvd	Pleasant Hill, CA
+Safeway	Q01031	1978 Contra Costa Blvd	Pleasant Hill, CA
+Safeway	Q01148	707 Contra Costa Blvd	Pleasant Hill, CA
+Safeway	Q00944	1701 Santa Rita Rd	Pleasanton, CA
+WinCo Foods	Q01236	90 Rio Rancho Rd	Pomona, CA
+Safeway	Q00935	10635 Folsom Blvd	Rancho Cordova, CA
+Albertsons	Q00468	11358 Kenyon Way	Rancho Cucamonga, CA
+Albertsons	Q00475	450 E Cypress Ave	Redlands, CA
+Vons	Q00741	4001 Inglewood Ave	Redondo Beach, CA
+Albertsons	Q00500	2975 Van Buren Boulevard	Riverside, CA
+Food 4 Less	Q01129	4250 Van Buren Boulevard	Riverside, CA
+Vons	Q01840	3520 Riverside Plaza Dr	Riverside, CA
+Safeway	Q00631	2220 Sunset Blvd	Rocklin, CA
+Safeway	Q00603	6340 Commerce Blvd	Rohnert Park, CA
+Pavilions	Q00714	7 Peninsula Center	Rolling Hills Estates, CA
+Safeway	Q00923	8640 Sierra College Blvd	Roseville, CA
+Safeway	Q00927	1080 Pleasant Grove Blvd	Roseville, CA
+Safeway	Q00929	989 Sunrise Ave	Roseville, CA
+Safeway	Q00988	9045 Woodcreek Oaks Blvd	Roseville, CA
+Safeway	Q00924	1814 19th St	Sacramento, CA
+Safeway	Q00926	1025 Alhambra Blvd	Sacramento, CA
+Safeway	Q00933	3320 Arden Wy	Sacramento, CA
+Safeway	Q00968	8377 Elk Grove Florin Rd	Sacramento, CA
+Safeway	Q01522	5345 Elkhorn Blvd	Sacramento, CA
+WinCo Foods	Q01534	2300 Watt Ave	Sacramento, CA
+Safeway	Q01537	2851 Del Paso Rd	Sacramento, CA
+Safeway	Q01500	838 Sir Francis Drake Blvd	San Anselmo, CA
+Albertsons	Q00521	804 Avenida Pico	San Clemente, CA
+Pavilions	Q01291	989 Avenida Pico	San Clemente, CA
+Vons	Q00489	620 Dennery Rd	San Diego, CA
+Vons	Q00492	11986 Bernardo Plaza Dr	San Diego, CA
+Vons	Q00499	6155 El Cajon Blvd	San Diego, CA
+Vons	Q00505	8310 Mira Mesa Blvd	San Diego, CA
+Vons	Q00506	515 Washington St	San Diego, CA
+Albertsons	Q00572	12475 Rancho Bernardo Rd	San Diego, CA
+Albertsons	Q00581	8650 Lake Murray Blvd	San Diego, CA
+Vons	Q00592	4145 30th St	San Diego, CA
+Vons	Q00615	4725 Clairemont Dr	San Diego, CA
+Vons	Q00888	3550 Murphy Canyon Rd	San Diego, CA
+Vons	Q00889	10675 Scripps Poway Pkwy	San Diego, CA
+Vons	Q01703	10016 Scripps Ranch Blvd	San Diego, CA
+Vons	Q01738	2495 Truxtun Rd Ste 28	San Diego, CA
+Vons	Q01831	7895 Highlands Village Pl	San Diego, CA
+Albertsons	Q00496	220 E Bonita Ave	San Dimas, CA
+Safeway	Q00920	735 7th Ave	San Francisco, CA
+Safeway	Q01345	5290 Diamond Heights Blvd	San Francisco, CA
+Lucky	Q00921	3457 McKee Rd	San Jose, CA
+Safeway	Q00925	5760 Cottle Rd	San Jose, CA
+Safeway	Q00934	1663 Branham Ln	San Jose, CA
+Safeway	Q00937	4950 Almaden Expy	San Jose, CA
+Safeway	Q00986	179 Branham Ln	San Jose, CA
+Safeway	Q00991	1530 Hamilton Ave	San Jose, CA
+Safeway	Q01526	5146 Stevens Creek Blvd	San Jose, CA
+Safeway	Q01529	6150 Bollinger Rd	San Jose, CA
+FoodMaxx	Q01752	1539 Parkmoor Ave	San Jose, CA
+Safeway	Q01160	699 Lewelling Blvd	San Leandro, CA
+WinCo Foods	Q00479	555 Grand Ave	San Marcos, CA
+Albertsons	Q00502	151 Woodland Pkwy	San Marcos, CA
+Albertsons	Q00877	1929 W San Marcos Blvd	San Marcos, CA
+Albertsons	Q01022	1571 San Elijo Rd	San Marcos, CA
+Ralphs	Q01717	306 S Twin Oaks Valley Rd	San Marcos, CA
+Safeway	Q01134	100 De Anza Blvd	San Mateo, CA
+Safeway	Q01260	1655 S El Camino Real	San Mateo, CA
+Albertsons	Q00177	28090 S Western Ave	San Pedro, CA
+Safeway	Q01039	11060 Bollinger Canyon Rd	San Ramon, CA
+Food 4 Less	Q00320	2140 S Bristol St	Santa Ana, CA
+Vons	Q00414	3650 S Bristol St	Santa Ana, CA
+Albertsons	Q00487	27631 Bouquet Canyon Rd	Santa Clarita, CA
+Food 4 Less	Q01656	19200 Soledad Canyon Rd	Santa Clarita, CA
+Safeway	Q01338	2203 Mission St	Santa Cruz, CA
+Vons	Q00513	576 W Main St	Santa Paula, CA
+Safeway	Q00623	1799 Marlow Rd	Santa Rosa, CA
+Safeway	Q00632	100 Calistoga Rd	Santa Rosa, CA
+Safeway	Q00672	2300 Mendocino Ave	Santa Rosa, CA
+Safeway	Q00976	2751 4th St	Santa Rosa, CA
+FoodMaxx	Q01256	2055 Sebastopol Rd	Santa Rosa, CA
+Safeway	Q01339	1211 W College Ave	Santa Rosa, CA
+Safeway	Q01484	2785 Yulupa Ave	Santa Rosa, CA
+Vons	Q01655	9643 Mission Gorge Rd	Santee, CA
+Safeway	Q01521	12876 Saratoga Sunnyvale Rd	Saratoga, CA
+Vons	Q01223	26518 Bouquet Canyon Rd	Saugus, CA
+Safeway	Q01331	253 Mt Hermon Rd	Scotts Valley, CA
+Safeway	Q01514	406 N Main St	Sebastopol, CA
+Pavilions	Q00469	14845 Ventura Blvd	Sherman Oaks, CA
+Albertsons	Q00465	1268 Madera Rd	Simi Valley, CA
+Vons	Q00486	1855 Cochran St	Simi Valley, CA
+Vons	Q00504	2938 Tapo Canyon Rd	Simi Valley, CA
+Safeway	Q01536	477 W Napa St	Sonoma, CA
+Safeway	Q01351	30 Chestnut Ave	South San Francisco, CA
+Safeway	Q01532	2255 Gellert Blvd	South San Francisco, CA
+Albertsons	Q01218	543 Sweetwater Rd	Spring Valley, CA
+Ralphs	Q01690	24975 Pico Canyon Rd	Stevenson Ranch, CA
+Safeway	Q00975	6445 Pacific Ave	Stockton, CA
+Safeway	Q01057	2808 Country Club Blvd	Stockton, CA
+Safeway	Q00611	639 S Bernardo Ave	Sunnyvale, CA
+Safeway	Q01503	150 E El Camino Real	Sunnyvale, CA
+WinCo Foods	Q01185	40435 Winchester Rd	Temecula, CA
+Ralphs	Q01885	33145 Temecula Pkwy	Temecula, CA
+Vons	Q00507	2048 E Avenida de Los Arboles	Thousand Oaks, CA
+Vons	Q01783	1790 N Moorpark Rd	Thousand Oaks, CA
+Vons	Q00423	4705 Torrance Blvd	Torrance, CA
+Vons	Q00706	24325 Crenshaw Blvd	Torrance, CA
+Safeway	Q00972	1801 W 11th St	Tracy, CA
+WinCo Foods	Q01325	2850 Pavilion Pkwy	Tracy, CA
+Albertsons	Q00348	13270 Newport Ave	Tustin, CA
+Safeway	Q00979	1790 Decoto Rd	Union City, CA
+Albertsons	Q00661	1910 N Campus Ave	Upland, CA
+Vons	Q00731	81 W Foothill Blvd	Upland, CA
+Safeway	Q01346	2090 Harbison Dr	Vacaville, CA
+Albertsons	Q00478	23850 Copper Hill Dr	Valencia, CA
+Vons	Q01216	25850 The Old Rd	Valencia, CA
+Safeway	Q01523	122 Robles Way	Vallejo, CA
+Food 4 Less	Q00370	16530 Sherman Way	Van Nuys, CA
+Vons	Q01123	115 W Main St	Ventura, CA
+Albertsons	Q00488	1301 E Vista Way	Vista, CA
+Albertsons	Q00516	1601 S Melrose Dr	Vista, CA
+Safeway	Q00936	2800 Ygnacio Valley Rd	Walnut Creek, CA
+Food 4 Less	Q00248	615 N Azusa Ave	West Covina, CA
+Pavilions	Q00415	8969 Santa Monica Blvd	West Hollywood, CA
+Albertsons	Q00662	6755 Westminster Blvd.	Westminster, CA
+Vons	Q00327	15740 La Forge St	Whittier, CA
+Food 4 Less	Q00410	336 W Anaheim St	Wilmington, CA
+Safeway	Q01524	9080 Brooks Rd S	Windsor, CA
+Vons	Q01240	20445 Yorba Linda Blvd	Yorba Linda, CA
+Vons	Q00503	33644 Yucaipa Blvd	Yucaipa, CA
+King Soopers	Q00265	12350 W 64th Ave	Arvada, CO
+King Soopers	Q00438	8031 Wadsworth Blvd	Arvada, CO
+King Soopers	Q00642	15200 W 64th Ave	Arvada, CO
+King Soopers	Q00744	6350 Sheridan Boulevard	Arvada, CO
+King Soopers	Q00746	9731 W 58th Ave	Arvada, CO
+King Soopers	Q00752	8055 Sheridan Boulevard	Arvada, CO
+King Soopers	Q00107	3050 S Peoria St	Aurora, CO
+King Soopers	Q00273	15250 E Mississippi Ave	Aurora, CO
+King Soopers	Q00284	655 Peoria St	Aurora, CO
+King Soopers	Q00433	25701 E Smoky Hill Rd	Aurora, CO
+Safeway	Q00621	1677 S Havana St	Aurora, CO
+Safeway	Q00636	12200 E Mississippi Ave	Aurora, CO
+Safeway	Q00660	6100 S Gun Club Rd	Aurora, CO
+Safeway	Q00663	18730 E Hampden Ave	Aurora, CO
+Safeway	Q00689	1200 S Buckley Rd	Aurora, CO
+King Soopers	Q00735	18211 E Hampden Ave	Aurora, CO
+King Soopers	Q00737	17000 E Iliff Ave	Aurora, CO
+King Soopers	Q00738	4271 S Buckley Rd	Aurora, CO
+King Soopers	Q00743	1155 S Havana St	Aurora, CO
+King Soopers	Q01146	6412 S Parker Rd	Aurora, CO
+Safeway	Q00435	3325 28th St	Boulder, CO
+King Soopers	Q00629	1650 30th St	Boulder, CO
+Safeway	Q00665	4800 E Baseline Rd	Boulder, CO
+Safeway	Q01180	2798 Arapahoe Ave	Boulder, CO
+King Soopers	Q00114	100 N 50th Ave	Brighton, CO
+King Soopers	Q00275	1150 US-287	Broomfield, CO
+King Soopers	Q00724	12167 Sheridan Boulevard	Broomfield, CO
+King Soopers	Q00753	2355 W 136th Ave	Broomfield, CO
+Safeway	Q01147	3602 W 144th Ave	Broomfield, CO
+King Soopers	Q00745	7284 Lagae Rd	Castle Pines, CO
+King Soopers	Q00283	750 N Ridge Rd	Castle Rock, CO
+Safeway	Q01096	880 S Perry St	Castle Rock, CO
+King Soopers	Q00272	8200 S Holly St	Centennial, CO
+King Soopers	Q00285	7575 S University Blvd	Centennial, CO
+Safeway	Q01150	7375 E Arapahoe Rd	Centennial, CO
+King Soopers	Q00362	6930 N Academy Blvd	Colorado Springs, CO
+Safeway	Q01110	3275 W Colorado Ave	Colorado Springs, CO
+Safeway	Q01161	1920 S Nevada Ave	Colorado Springs, CO
+Safeway	Q01163	5060 N Academy Blvd	Colorado Springs, CO
+Safeway	Q01165	2210 N Wahsatch Ave	Colorado Springs, CO
+Safeway	Q01178	6520 S Academy Blvd	Colorado Springs, CO
+Safeway	Q01179	2890 N Powers Blvd	Colorado Springs, CO
+Safeway	Q01269	1121 N Circle Dr	Colorado Springs, CO
+King Soopers	Q01506	3620 Austin Bluffs Pkwy	Colorado Springs, CO
+Safeway	Q01672	7055 Austin Bluffs Pkwy	Colorado Springs, CO
+Safeway	Q01686	840 Village Center Dr	Colorado Springs, CO
+Safeway	Q01688	1425 S Murray Blvd	Colorado Springs, CO
+King Soopers	Q01701	3570 Hartsel Dr	Colorado Springs, CO
+King Soopers	Q00426	4850 E 62nd Ave	Commerce City, CO
+King Soopers	Q00437	15051 E 104th Ave	Commerce City, CO
+Safeway	Q01647	27152 Main St	Conifer, CO
+King Soopers	Q00100	3100 S Sheridan Blvd	Denver, CO
+King Soopers	Q00268	5125 W Florida Ave	Denver, CO
+King Soopers	Q00270	1575 W 84th Ave	Denver, CO
+King Soopers	Q00287	825 S Colorado Blvd	Denver, CO
+King Soopers	Q00398	2727 W Evans Ave	Denver, CO
+King Soopers	Q00430	890 S Monaco St Pkwy	Denver, CO
+King Soopers	Q00439	2750 S Colorado Blvd	Denver, CO
+King Soopers	Q00442	1355 Krameria St	Denver, CO
+King Soopers	Q00443	10406 M.L.K. Jr Blvd	Denver, CO
+Safeway	Q00622	1653 S Colorado Blvd	Denver, CO
+Safeway	Q00635	2150 S Downing St	Denver, CO
+Safeway	Q00641	200 Quebec St	Denver, CO
+Safeway	Q00649	6460 E Yale Ave	Denver, CO
+Safeway	Q00650	6220 E 14th Ave	Denver, CO
+Safeway	Q00652	2660 N Federal Blvd	Denver, CO
+Safeway	Q00653	3800 W 44th Ave	Denver, CO
+Safeway	Q00667	757 E 20th Ave	Denver, CO
+King Soopers	Q00749	1331 Speer Blvd	Denver, CO
+Safeway	Q00780	323 S Broadway	Denver, CO
+King Soopers	Q00282	1725 Sheridan Boulevard	Edgewater, CO
+Safeway	Q01166	220 S Elizabeth St	Elizabeth, CO
+King Soopers	Q00432	101 Englewood Pkwy	Englewood, CO
+King Soopers	Q00754	3495 S University Blvd	Englewood, CO
+Safeway	Q00277	3851 S Hwy 74	Evergreen, CO
+Safeway	Q01172	7655 McLaughlin Rd	Falcon, CO
+Safeway	Q01098	8134 Colorado Blvd	Firestone, CO
+King Soopers	Q00627	2535 S College Ave	Fort Collins, CO
+Safeway	Q01104	2160 W Drake Rd	Fort Collins, CO
+Safeway	Q01107	3657 S College Ave	Fort Collins, CO
+Safeway	Q01100	1300 Dexter St	Fort Lupton, CO
+Safeway	Q01477	6925 Mesa Ridge Pkwy	Fountain, CO
+King Soopers	Q01704	5801 Silverstone Dr	Frederick, CO
+King Soopers	Q00446	4600 Leetsdale Dr	Glendale, CO
+King Soopers	Q00755	17171 S Golden Rd	Golden, CO
+Safeway	Q01326	1701 Jackson St	Golden, CO
+King Soopers	Q00648	2100 35th Ave	Greeley, CO
+Safeway	Q01079	4548 Centerplace Dr	Greeley, CO
+Safeway	Q01092	3526 W 10th St	Greeley, CO
+King Soopers	Q00445	4910 S Yosemite St	Greenwood Village, CO
+King Soopers	Q00742	6000 S Holly St	Greenwood Village, CO
+King Soopers	Q00108	2205 W Wildcat Reserve Pkwy	Highlands Ranch, CO
+King Soopers	Q00274	8673 S Quebec St	Highlands Ranch, CO
+King Soopers	Q00431	4000 Red Cedar Dr	Highlands Ranch, CO
+King Soopers	Q00449	9551 S University Blvd	Highlands Ranch, CO
+Safeway	Q01191	9255 S Broadway	Highlands Ranch, CO
+King Soopers	Q00436	2900 Arapahoe Rd	Lafayette, CO
+King Soopers	Q00110	7984 W Alameda Ave	Lakewood, CO
+King Soopers	Q00266	1927 S Wadsworth Blvd	Lakewood, CO
+King Soopers	Q00278	1555 Quail St	Lakewood, CO
+King Soopers	Q00429	12043 W Alameda Pkwy	Lakewood, CO
+Safeway	Q00471	11088 W Jewell Ave	Lakewood, CO
+King Soopers	Q00748	1545 S Kipling Pkwy	Lakewood, CO
+Safeway	Q01173	13111 W Alameda Pkwy	Lakewood, CO
+King Soopers	Q00101	11747 W Ken Caryl Ave	Littleton, CO
+King Soopers	Q00102	8126 S Wadsworth Blvd	Littleton, CO
+King Soopers	Q00279	100 W Littleton Blvd	Littleton, CO
+King Soopers	Q00286	6760 S Pierce St	Littleton, CO
+King Soopers	Q00447	7901 S Broadway	Littleton, CO
+Safeway	Q01081	181 W Mineral Ave	Littleton, CO
+Safeway	Q01174	8434 S Kipling Pkwy	Littleton, CO
+Safeway	Q01142	9229 Lincoln Ave	Lone Tree, CO
+Safeway	Q00448	1050 Ken Pratt Blvd	Longmont, CO
+Safeway	Q00450	1632 Hover St	Longmont, CO
+King Soopers	Q00428	1375 E South Boulder Rd	Louisville, CO
+Safeway	Q01170	624 W Hwy 105	Monument, CO
+Safeway	Q02031	500 E 120th Ave	Northglenn, CO
+King Soopers	Q00105	17761 Cottonwood Dr	Parker, CO
+King Soopers	Q00109	17031 Lincoln Ave	Parker, CO
+Safeway	Q01105	11051 S Parker Rd	Parker, CO
+King Soopers	Q01696	12959 S Parker Rd	Parker, CO
+Safeway	Q00644	1601 Coalton Rd	Superior, CO
+King Soopers	Q00440	3801 E 120th Ave	Thornton, CO
+Safeway	Q00647	771 Thornton Pkwy	Thornton, CO
+Safeway	Q00664	3840 E 104th Ave	Thornton, CO
+King Soopers	Q00747	750 E 104th Ave	Thornton, CO
+King Soopers	Q00271	10351 Federal Blvd	Westminster, CO
+King Soopers	Q00281	9983 Wadsworth Pkwy	Westminster, CO
+King Soopers	Q00289	3400 Youngfield St	Wheat Ridge, CO
+King Soopers	Q00444	5301 W 38th Ave	Wheat Ridge, CO
+Safeway	Q00638	3900 Wadsworth Blvd	Wheat Ridge, CO
+Safeway	Q01483	1101 E US-24	Woodland Park, CO
+Acme Markets	Q01911	128 Lantana Dr	Hockessin, DE
+Safeway	Q01551	2400 Peoples Plaza	Newark, DE
+Acme Markets	Q01982	1 University Dr	Newark, DE
+Safeway	Q01444	1855 Wisconsin Ave NW	Washington, DC
+Safeway	Q01445	6500 Piney Branch Rd NW	Washington, DC
+Safeway	Q01509	2845 Alabama Ave SE	Washington, DC
+Safeway	Q01561	415 14th St SE	Washington, DC
+Kroger	Q00602	3330 Cobb Pkwy NW	Acworth, GA
+Kroger	Q00601	10945 State Bridge Rd	Alpharetta, GA
+Kroger	Q00718	3000 Old Alabama Rd	Alpharetta, GA
+Kroger	Q00726	12460 Crabapple Rd	Alpharetta, GA
+Kroger	Q00809	12870 GA-9 N	Alpharetta, GA
+Kroger	Q01258	5665 Atlanta Hwy	Alpharetta, GA
+Kroger	Q00633	1715 Howell Mill Rd NW	Atlanta, GA
+Kroger	Q00723	4920 Roswell Rd	Atlanta, GA
+Kroger	Q00725	3030 Headland Dr SW	Atlanta, GA
+Kroger	Q00819	3425 Cascade Rd	Atlanta, GA
+Kroger	Q01045	2090 Dunwoody Club Dr	Atlanta, GA
+Kroger	Q01048	1225 Caroline St NE	Atlanta, GA
+Kroger	Q01064	3871 Peachtree Rd NE	Atlanta, GA
+Kroger	Q01084	2205 Lavista Rd NE	Atlanta, GA
+Kroger	Q01099	590 Cascade Ave SW	Atlanta, GA
+Kroger	Q01155	2685 Metropolitan Pkwy SW	Atlanta, GA
+Kroger	Q01213	3559 Chamblee Tucker Rd	Atlanta, GA
+Kroger	Q01257	800 Glenwood Ave SE	Atlanta, GA
+Kroger	Q01261	227 Sandy Springs Pl NE	Atlanta, GA
+Kroger	Q01973	725 Ponce De Leon Ave NE	Atlanta, GA
+Kroger	Q02098	1700 Monroe Dr NE	Atlanta, GA
+Kroger	Q01063	3855 Buford Hwy NE	Brookhaven, GA
+Kroger	Q01071	3300 Hamilton Mill Rd	Buford, GA
+Kroger	Q01021	136 W Belmont Dr	Calhoun, GA
+Kroger	Q00588	8020 Cumming Hwy	Canton, GA
+Kroger	Q01977	6766 Hickory Flat Hwy	Canton, GA
+Kroger	Q01065	6055 Old National Hwy	College Park, GA
+Kroger	Q01255	1745 Hwy 138 SE	Conyers, GA
+Kroger	Q00617	3139 Hwy 278 NE	Covington, GA
+Kroger	Q00666	5341 Hwy 20 S	Covington, GA
+Kroger	Q00675	3700 Salem Rd	Covington, GA
+Kroger	Q01061	2325 Bethelview Rd	Cumming, GA
+Kroger	Q01221	2655 Freedom Pkwy	Cumming, GA
+Kroger	Q01263	5550 Bethelview Rd	Cumming, GA
+Kroger	Q00862	457 Nathan Dean Blvd	Dallas, GA
+Kroger	Q01054	8876 Dallas Acworth Hwy	Dallas, GA
+Kroger	Q00767	2875 N Decatur Rd	Decatur, GA
+Kroger	Q01015	2385 Wesley Chapel Rd	Decatur, GA
+Kroger	Q01069	3479 Memorial Dr	Decatur, GA
+Kroger	Q00669	3875 Chapel Hill Rd	Douglasville, GA
+Kroger	Q01072	8501 Hospital Dr	Douglasville, GA
+Kroger	Q01952	3251 GA-5	Douglasville, GA
+Kroger	Q00634	6555 Sugarloaf Pkwy	Duluth, GA
+Kroger	Q01226	3455 Peachtree Industrial Blvd	Duluth, GA
+Kroger	Q02095	4498 Chamblee Dunwoody Rd	Dunwoody, GA
+Kroger	Q02095	4498 Chamblee Dunwoody Rd	Dunwoody, GA
+Kroger	Q00472	101 Fairview Rd	Ellenwood, GA
+Kroger	Q00473	805 Glynn St S	Fayetteville, GA
+Kroger	Q01056	7380 Spout Springs Rd	Flowery Branch, GA
+Kroger	Q00637	1931 Jesse Jewell Pkwy SE	Gainesville, GA
+Kroger	Q00872	3630 Thompson Bridge Rd	Gainesville, GA
+Kroger	Q01272	1911 Grayson Hwy	Grayson, GA
+Kroger	Q01972	8465 Holcomb Bridge Rd	Johns Creek, GA
+Kroger	Q00676	8059 Tara Blvd	Jonesboro, GA
+Kroger	Q02088	10375 Tara Blvd	Jonesboro, GA
+Kroger	Q00619	5664 Jonesboro Rd	Lake City, GA
+Kroger	Q00624	1475 Buford Dr	Lawrenceville, GA
+Kroger	Q01545	2100 Riverside Pkwy	Lawrenceville, GA
+Kroger	Q00643	4155 Lawrenceville Hwy NW	Lilburn, GA
+Kroger	Q01046	4753 Atlanta Hwy	Loganville, GA
+Kroger	Q01262	910 Athens Hwy	Loganville, GA
+Kroger	Q00640	2100 Roswell Rd	Marietta, GA
+Kroger	Q00712	2960 Shallowford Rd	Marietta, GA
+Kroger	Q00790	3600 Dallas Hwy SW	Marietta, GA
+Kroger	Q00796	4880 Lower Roswell Rd	Marietta, GA
+Kroger	Q00834	3595 Canton Rd	Marietta, GA
+Kroger	Q01013	3162 Johnson Ferry Rd	Marietta, GA
+Kroger	Q01059	1690 Powder Springs Rd SW	Marietta, GA
+Kroger	Q01068	1000 Whitlock Ave NW	Marietta, GA
+Kroger	Q01917	2000 GA-155 N	McDonough, GA
+Kroger	Q00480	1751 Newnan Xing Blvd E	Newnan, GA
+Kroger	Q01074	3150 GA-34 E	Newnan, GA
+Kroger	Q01062	564 Crosstown Drive	Peachtree City, GA
+Kroger	Q01984	1017 N Peachtree Pkwy	Peachtree City, GA
+Kroger	Q01042	4400 Brownsville Rd	Powder Springs, GA
+Kroger	Q01077	4150 Macland Rd	Powder Springs, GA
+Kroger	Q00729	2300 Holcomb Bridge Rd	Roswell, GA
+Kroger	Q00762	570 E Crossville Rd	Roswell, GA
+Kroger	Q01264	900 Marietta Hwy	Roswell, GA
+Kroger	Q00680	3035 Scenic Hwy S	Snellville, GA
+Kroger	Q01234	1670 Scenic Hwy N	Snellville, GA
+Kroger	Q00455	1750 Hudson Bridge Rd	Stockbridge, GA
+Kroger	Q01075	3618 Hwy 138 SE	Stockbridge, GA
+Kroger	Q02099	1232 S Hairston Rd	Stone Mountain, GA
+Kroger	Q00870	400 Peachtree Industrial Blvd	Suwanee, GA
+Kroger	Q01210	3651 Peachtree Pkwy	Suwanee, GA
+Kroger	Q01214	2121 Lawrenceville-Suwanee Rd	Suwanee, GA
+Kroger	Q01215	3959 Lavista Rd A	Tucker, GA
+Kroger	Q02094	4357 Lawrenceville Hwy	Tucker, GA
+Kroger	Q00799	4550 Jonesboro Rd	Union City, GA
+Kroger	Q01028	12050 GA-92 Ste 112	Woodstock, GA
+Kroger	Q01050	2295 Towne Lake Pkwy	Woodstock, GA
+Fred Meyer	Q01453	5230 W Franklin Rd	Boise, ID
+WinCo Foods	Q01454	110 E Myrtle St	Boise, ID
+WinCo Foods	Q01458	8200 W Fairview Ave	Boise, ID
+Albertsons	Q01459	10700 W Ustick Rd	Boise, ID
+Fred Meyer	Q01467	10751 W Overland Rd	Boise, ID
+Albertsons	Q01468	4700 N Eagle Rd	Boise, ID
+Albertsons	Q01518	1653 S Vista Ave	Boise, ID
+Fred Meyer	Q01714	3527 S Federal Way	Boise, ID
+WinCo Foods	Q01698	3032 E State St	Eagle, ID
+Fred Meyer	Q01746	5425 W Chinden Blvd	Garden City, ID
+Albertsons	Q01448	700 E Avalon St	Kuna, ID
+WinCo Foods	Q01460	1407 W Chinden Blvd	Meridian, ID
+Fred Meyer	Q01463	1400 W Chinden Blvd	Meridian, ID
+WinCo Foods	Q01707	1050 S Progress Ave	Meridian, ID
+WinCo Foods	Q01456	1175 N Happy Valley Rd	Nampa, ID
+Jewel-Osco	Q01193	1501 E Algonquin Rd	Algonquin, IL
+Jewel-Osco	Q01196	103 S Randall Rd	Algonquin, IL
+Food 4 Less	Q01790	12150 S Pulaski Rd	Alsip, IL
+Jewel-Osco	Q01195	440 E Rand Rd	Arlington Heights, IL
+Jewel-Osco	Q01199	125 E Stearns Rd	Bartlett, IL
+Jewel-Osco	Q00758	119 S Randall Rd	Batavia, IL
+Woodman's Market	Q01829	1 Stratford Dr	Bloomingdale, IL
+Jewel-Osco	Q01181	1200 W Boughton Rd	Bolingbrook, IL
+Woodman's Market	Q01145	1550 Deerfield Pkwy	Buffalo Grove, IL
+Jewel-Osco	Q01198	79 McHenry Rd	Buffalo Grove, IL
+Jewel-Osco	Q01474	7910 S Cicero Ave	Burbank, IL
+Jewel-Osco	Q01205	750 Army Trail Rd	Carol Stream, IL
+Woodman's Market	Q01228	2100 Randall Rd	Carpentersville, IL
+Jewel-Osco	Q01447	696 Northwest Hwy	Cary, IL
+Jewel-Osco	Q00267	2940 N Ashland Ave	Chicago, IL
+Jewel-Osco	Q00584	1763 W Howard St	Chicago, IL
+Jewel-Osco	Q00595	3570 N Elston Ave	Chicago, IL
+Jewel-Osco	Q01316	1220 S Ashland Ave	Chicago, IL
+Jewel-Osco	Q01374	1340 S Canal St	Chicago, IL
+Jewel-Osco	Q01376	1341 N Paulina St	Chicago, IL
+Jewel-Osco	Q01382	2520 N Narragansett Ave	Chicago, IL
+Jewel-Osco	Q01384	4250 N Lincoln Ave	Chicago, IL
+Jewel-Osco	Q01388	3630 N Southport Ave	Chicago, IL
+Jewel-Osco	Q01393	102 W Division St	Chicago, IL
+Jewel-Osco	Q01395	7342 W Foster Ave	Chicago, IL
+Jewel-Osco	Q01438	1655 E 95th St	Chicago, IL
+Jewel-Osco	Q01446	2550 N Clybourn Ave	Chicago, IL
+Jewel-Osco	Q01475	11730 S Marshfield Ave	Chicago, IL
+Jewel-Osco	Q01725	4660 W Irving Park Rd	Chicago, IL
+Food 4 Less	Q01728	7030 S Ashland Ave	Chicago, IL
+Food 4 Less	Q01768	4821 W North Ave	Chicago, IL
+Food 4 Less	Q00682	1333 Western Ave	Chicago Heights, IL
+Food 4 Less	Q01785	3039 S Cicero Ave	Cicero, IL
+Jewel-Osco	Q01436	303 Holmes Ave	Clarendon Hills, IL
+Food 4 Less	Q00701	1701 N Larkin Ave	Crest Hill, IL
+Jewel-Osco	Q01138	6140 Northwest Hwy	Crystal Lake, IL
+Jewel-Osco	Q00700	7329 S Cass Ave	Darien, IL
+Food 4 Less	Q01795	1000 E Sibley Blvd	Dolton, IL
+Jewel-Osco	Q01190	1040 Summit St	Elgin, IL
+Jewel-Osco	Q01230	1660 Larkin Ave	Elgin, IL
+Jewel-Osco	Q01309	153 Schiller St	Elmhurst, IL
+Food 4 Less	Q01737	2400 W Main St	Evanston, IL
+Jewel-Osco	Q00579	21164 S LaGrange Rd	Frankfort, IL
+Jewel-Osco	Q01310	10203 Grand Ave	Franklin Park, IL
+Jewel-Osco	Q01201	2164 Bloomingdale Rd	Glendale Heights, IL
+Jewel-Osco	Q01432	9528 S Roberts Rd	Hickory Hills, IL
+Jewel-Osco	Q00817	1069 N Roselle Rd	Hoffman Estates, IL
+Jewel-Osco	Q01202	1485 Palatine Rd	Hoffman Estates, IL
+Jewel-Osco	Q00825	10090 IL-47	Huntley, IL
+Woodman's Market	Q01203	27555 W IL-120	Lakemoor, IL
+Jewel-Osco	Q00589	1177 S Main St	Lombard, IL
+Jewel-Osco	Q01189	4222 W Elm St	McHenry, IL
+Jewel-Osco	Q01386	800 W North Ave	Melrose Park, IL
+Food 4 Less	Q01745	2501 W North Ave	Melrose Park, IL
+Jewel-Osco	Q01152	333 Euclid Ave	Mount Prospect, IL
+Jewel-Osco	Q01133	1150 W Maple Ave	Mundelein, IL
+Jewel-Osco	Q01182	1501 S Lake St	Mundelein, IL
+Jewel-Osco	Q00570	1227 S Naper Blvd	Naperville, IL
+Jewel-Osco	Q00713	2855 95th St	Naperville, IL
+Woodman's Market	Q01200	151 Hansen Blvd	North Aurora, IL
+Jewel-Osco	Q01429	17930 Wolf Rd	Orland Park, IL
+Jewel-Osco	Q00582	2540 US-30	Oswego, IL
+Jewel-Osco	Q01323	481 Busse Hwy	Park Ridge, IL
+Jewel-Osco	Q01437	13460 S Rte 59	Plainfield, IL
+Jewel-Osco	Q00806	3000 Kirchoff Rd	Rolling Meadows, IL
+Jewel-Osco	Q01375	20 S Weber Rd	Romeoville, IL
+Jewel-Osco	Q01186	2501 W Schaumburg Rd	Schaumburg, IL
+Jewel-Osco	Q01206	1151 S Roselle Rd	Schaumburg, IL
+Jewel-Osco	Q01308	9449 Skokie Blvd	Skokie, IL
+Jewel-Osco	Q01204	375 S Randall Rd	South Elgin, IL
+Jewel-Osco	Q01194	217 W Irving Park Rd	Streamwood, IL
+Jewel-Osco	Q00580	17117 S Harlem Ave	Tinley Park, IL
+Jewel-Osco	Q01222	547 W Liberty St	Wauconda, IL
+Jewel-Osco	Q01088	922 N Green Bay Rd	Waukegan, IL
+Jewel-Osco	Q01212	3124 N Lewis Ave	Waukegan, IL
+Jewel-Osco	Q00574	30 Danada Square W	Wheaton, IL
+Jewel-Osco	Q00578	2031 N Main St	Wheaton, IL
+Jewel-Osco	Q01373	411 Green Bay Rd	Wilmette, IL
+Jewel-Osco	Q00571	2317 75th St	Woodridge, IL
+Jewel-Osco	Q01143	145 S Eastwood Dr	Woodstock, IL
+Kroger	Q01016	11700 Olio Rd	Fishers, IN
+Kroger	Q01091	7450 Fishers Station Dr	Fishers, IN
+Kroger	Q02051	9799 E 116th St	Fishers, IN
+Kroger	Q01948	970 N Morton St	Franklin, IN
+Kroger	Q01076	2200 Independence Dr	Greenwood, IN
+Kroger	Q01779	5961 N State Rd 135	Greenwood, IN
+Kroger	Q00527	680 Twin Aire Dr	Indianapolis, IN
+Kroger	Q00852	5718 Crawfordsville Rd	Indianapolis, IN
+Kroger	Q01014	5911 Madison Ave	Indianapolis, IN
+Kroger	Q01740	8130 E Southport Rd	Indianapolis, IN
+Kroger	Q01810	4445 E 10th St	Indianapolis, IN
+Kroger	Q01859	1330 W Southport Rd	Indianapolis, IN
+Kroger	Q01974	4202 S East St	Indianapolis, IN
+Kroger	Q01978	7101 E 10th St	Indianapolis, IN
+Kroger	Q01396	172 Logan St	Noblesville, IN
+Kroger	Q01824	14800 Hazel Dell Crossing	Noblesville, IN
+Kroger	Q01080	150 W 161st St	Westfield, IN
+Kroger	Q01665	17447 Carey Rd	Westfield, IN
+Kroger	Q01023	1751 Patrick Dr	Burlington, KY
+Kroger	Q00692	70 Martha Layne Collins Blvd	Cold Spring, KY
+Kroger	Q00612	4303 Winston Ave	Covington, KY
+Kroger	Q00608	2150 Dixie Hwy	Fort Mitchell, KY
+Kroger	Q00678	9001 US-42	Union, KY
+Kroger	Q00703	635 Chestnut Dr	Walton, KY
+Safeway	Q02096	2635 Housley Rd	Annapolis, MD
+Safeway	Q02096	2635 Housley Rd	Annapolis, MD
+Safeway	Q01361	1451 Ritchie Hwy	Arnold, MD
+Safeway	Q01355	4401 Harford Rd	Baltimore, MD
+Safeway	Q01364	2610 Boston St	Baltimore, MD
+Safeway	Q01369	5660 Baltimore National Pike	Baltimore, MD
+Safeway	Q01356	12410 Fairwood Pkwy	Bowie, MD
+Safeway	Q01913	4101 Northview Dr	Bowie, MD
+Safeway	Q01554	15916 S Crain Hwy	Brandywine, MD
+Safeway	Q01501	8785 Branch Ave	Clinton, MD
+Safeway	Q02079	5485 Harpers Farm Rd A	Columbia, MD
+Safeway	Q02079	5485 Harpers Farm Rd A	Columbia, MD
+Safeway	Q01425	9807 Main St	Damascus, MD
+Safeway	Q01998	52 Central Ave W	Edgewater, MD
+Safeway	Q01379	1313 Londontown Blvd	Eldersburg, MD
+Safeway	Q01559	990 Swan Creek Rd E	Fort Washington, MD
+Safeway	Q01443	19718 Germantown Rd	Germantown, MD
+Safeway	Q01365	7595 Greenbelt Rd	Greenbelt, MD
+Safeway	Q02084	7643 Arundel Mills Blvd	Hanover, MD
+Safeway	Q01372	3702 East-West Hwy	Hyattsville, MD
+Safeway	Q01550	40 Shining Willow Way	La Plata, MD
+Safeway	Q01368	337 E Ridgeville Blvd	Mount Airy, MD
+Safeway	Q02056	3333 Spartan Rd	Olney, MD
+Safeway	Q01363	10335 Reisterstown Rd	Owings Mills, MD
+Safeway	Q01439	6235 Oxon Hill Rd	Oxon Hill, MD
+Safeway	Q01390	8858 Waltham Woods Rd	Parkville, MD
+Safeway	Q01962	9645 Belair Rd	Perry Hall, MD
+Safeway	Q01431	14939 Shady Grove Rd	Rockville, MD
+Safeway	Q01471	403 Redland Blvd	Rockville, MD
+Safeway	Q01428	10101 New Hampshire Ave	Silver Spring, MD
+Safeway	Q01430	15411 New Hampshire Ave	Silver Spring, MD
+Safeway	Q01381	1017 York Rd	Towson, MD
+Safeway	Q01505	10 King St	Waldorf, MD
+Safeway	Q01910	3051 Waldorf Market Pl	Waldorf, MD
+Safeway	Q01377	444 WMC Dr	Westminster, MD
+Shaw's	Q01868	301 Pond St	Ashland, MA
+Shaw's	Q01869	368 Southbridge St	Auburn, MA
+Shaw's	Q01581	71 Dodge St	Beverly, MA
+Shaw's	Q01587	246 Border St	Boston, MA
+Shaw's	Q00460	105 Pearl St	Braintree, MA
+Shaw's	Q01582	641 Belmont St	Brockton, MA
+Shaw's	Q01764	715 Crescent St	Brockton, MA
+Shaw's	Q01533	180A Cambridge St	Burlington, MA
+Shaw's	Q01583	95 Washington St	Canton, MA
+Shaw's	Q01767	100 N Main St	Carver, MA
+Shaw's	Q01527	739 Chief Justice Cushing Hwy	Cohasset, MA
+Shaw's	Q01469	15 State Rd	Dartmouth, MA
+Shaw's	Q01441	4171 N Main St	Fall River, MA
+Shaw's	Q01765	255 E Central St	Franklin, MA
+Shaw's	Q01442	760 A Boston Rd	Groton, MA
+Shaw's	Q01753	35 Columbia Rd	Hanover, MA
+Shaw's	Q01761	625 W Main St	Hyannis, MA
+Shaw's	Q01748	1377 Hyde Park Ave	Hyde Park, MA
+Shaw's	Q01578	390 West St	Mansfield, MA
+Star Market	Q01540	1 Snow Rd	Marshfield, MA
+Shaw's	Q00540	65 Main St	Medway, MA
+Shaw's	Q01531	34 Essex St	Melrose, MA
+Shaw's	Q01461	93 Prospect St	Milford, MA
+Shaw's	Q01575	125 Robert F Toner Blvd	North Attleborough, MA
+Shaw's	Q01567	690 Depot St	North Easton, MA
+Shaw's	Q01584	134 Nahatan St	Norwood, MA
+Shaw's	Q01535	9 West Rd	Orleans, MA
+Shaw's	Q01541	128 Essex Center Dr	Peabody, MA
+Shaw's	Q01473	2260 State Rd	Plymouth, MA
+Shaw's	Q01661	121 Memorial Pkwy	Randolph, MA
+Shaw's	Q01760	300 New State Hwy	Raynham, MA
+Shaw's	Q01751	780 S Main St	Sharon, MA
+Shaw's	Q01778	137 Teaticket Hwy	Teaticket, MA
+Shaw's	Q01812	134 Water St	Wakefield, MA
+Shaw's	Q01886	130 River St	Waltham, MA
+Shaw's	Q01464	127 Marion Rd	Wareham, MA
+Shaw's	Q01520	610 Middle St	Weymouth, MA
+Shaw's	Q01852	1177 Providence Rd	Whitinsville, MA
+Shaw's	Q01465	14 W Boylston St	Worcester, MA
+Shaw's	Q01472	68 Stafford St	Worcester, MA
+Kroger	Q01003	23849 West Rd	Brownstown, MI
+Kroger	Q02077	20645 Gibraltar Rd	Brownstown, MI
+Kroger	Q00860	45540 Michigan Ave	Canton, MI
+Kroger	Q00865	1905 N Canton Center Rd	Canton, MI
+Kroger	Q00871	25780 Middlebelt Rd	Farmington Hills, MI
+Kroger	Q01360	12731 S Saginaw St	Grand Blanc, MI
+Kroger	Q00853	108 W Highland Rd	Howell, MI
+Kroger	Q00815	1821 S Cedar St	Imlay City, MI
+Kroger	Q00803	2060 DIX Hwy	Lincoln Park, MI
+Kroger	Q00885	30935 Five Mile Rd	Livonia, MI
+Kroger	Q01089	21555 21 Mile Rd	Macomb, MI
+Kroger	Q00856	17447 Haggerty Rd	Northville, MI
+Kroger	Q01352	47650 Grand River Ave	Novi, MI
+Kroger	Q00849	9700 Chilson Commons Cir	Pinckney, MI
+Kroger	Q01082	4888 N Adams Rd	Rochester, MI
+Kroger	Q01066	65 S Livernois Rd	Rochester Hills, MI
+Kroger	Q00864	14945 23 Mile Rd	Shelby Township, MI
+Kroger	Q00684	7000 Monroe Blvd	Taylor, MI
+Kroger	Q00786	1237 Coolidge Hwy	Troy, MI
+Kroger	Q00801	28250 Dequindre Rd	Warren, MI
+Kroger	Q00858	26233 Hoover Rd	Warren, MI
+Kroger	Q01353	64660 Van Dyke Ave	Washington, MI
+Kroger	Q00867	5111 Highland Rd	Waterford, MI
+Kroger	Q00683	36430 Ford Rd	Westland, MI
+Kroger	Q00691	31300 Michigan Ave	Westland, MI
+Kroger	Q01106	7350 N Middlebelt Rd	Westland, MI
+Kroger	Q00863	2010 Whittaker Rd	Ypsilanti, MI
+Albertsons	Q01248	1008 Nevada Way	Boulder City, NV
+Smith's	Q00656	10616 S Eastern Ave	Henderson, NV
+Albertsons	Q01162	201 S Stephanie St	Henderson, NV
+Albertsons	Q01232	575 College Dr	Henderson, NV
+WinCo Foods	Q01244	80 N Stephanie St	Henderson, NV
+Vons	Q01252	45 E Horizon Ridge Pkwy	Henderson, NV
+Albertsons	Q01733	190 N Boulder Hwy	Henderson, NV
+Vons	Q01743	2667 Windmill Pkwy	Henderson, NV
+Vons	Q01763	2511 Anthem Village Dr	Henderson, NV
+Smith's	Q00657	4965 E Sahara Ave	Las Vegas, NV
+Smith's	Q00728	450 N Nellis Blvd	Las Vegas, NV
+Albertsons	Q01207	7151 W Craig Rd	Las Vegas, NV
+Albertsons	Q01217	8410 Farm Rd	Las Vegas, NV
+Albertsons	Q01235	7075 W Ann Rd	Las Vegas, NV
+Albertsons	Q01299	6730 N Hualapai Way	Las Vegas, NV
+Albertsons	Q01543	1940 Village Center Cir	Las Vegas, NV
+WinCo Foods	Q01754	6101 N Decatur Blvd	Las Vegas, NV
+Albertsons	Q01755	5975 W Tropicana Ave	Las Vegas, NV
+Vons	Q01908	7405 S Durango Dr	Las Vegas, NV
+WinCo Foods	Q01909	7501 W Washington Ave	Las Vegas, NV
+Smith's	Q00342	4700 W Ann Rd	North Las Vegas, NV
+Smith's	Q00421	5564 Camino Al Norte	North Las Vegas, NV
+Albertsons	Q01729	3010 W Ann Rd	North Las Vegas, NV
+Shaw's	Q01496	20 D'Amante Dr	Concord, NH
+Shaw's	Q01481	276 W Main St	Hillsborough, NH
+Shaw's	Q01816	1328 Hooksett Rd	Hooksett, NH
+Shaw's	Q01820	7 Continental Blvd	Merrimack, NH
+Shaw's	Q01498	586 Nashua St	Milford, NH
+Shaw's	Q01450	213 Daniel Webster Hwy	Nashua, NH
+Shaw's	Q01480	300 Main St	Nashua, NH
+Shaw's	Q01883	4 Plaistow Rd	Plaistow, NH
+Shaw's	Q01807	43 Indian Rock Rd	Windham, NH
+Acme Markets	Q01585	260 Dunns Mill Rd	Bordentown, NJ
+Acme Markets	Q01918	3241 US-9	Freehold Township, NJ
+Acme Markets	Q02081	531 High St	Mount Holly, NJ
+Acme Markets	Q01932	953 NJ-33	Trenton, NJ
+Acme Markets	Q02090	4400 S Broad St	Trenton, NJ
+Acme Markets	Q01569	23 Levitt Pkwy	Willingboro, NJ
+Kroger	Q00828	6095 Gender Rd	Canal Winchester, OH
+Kroger	Q02072	1095 S Main St	Centerville, OH
+Kroger	Q00697	6165 Glenway Ave	Cincinnati, OH
+Kroger	Q00705	4500 Montgomery Rd	Cincinnati, OH
+Kroger	Q00710	4613 Marburg Ave	Cincinnati, OH
+Kroger	Q00750	3609 Warsaw Ave	Cincinnati, OH
+Kroger	Q00759	10595 Springfield Pike	Cincinnati, OH
+Kroger	Q00760	7132 Hamilton Ave	Cincinnati, OH
+Kroger	Q00761	3636 Springdale Rd	Cincinnati, OH
+Kroger	Q00772	5910 Harrison Ave	Cincinnati, OH
+Kroger	Q01038	1 W Corry St	Cincinnati, OH
+Kroger	Q01117	11390 Montgomery Rd	Cincinnati, OH
+Kroger	Q00620	150 W Sycamore St	Columbus, OH
+Kroger	Q00645	7000 E Broad St	Columbus, OH
+Kroger	Q00671	1177 Polaris Pkwy	Columbus, OH
+Kroger	Q00681	1375 Chambers Rd	Columbus, OH
+Kroger	Q00659	7625 Sawmill Rd	Dublin, OH
+Kroger	Q00677	7100 Hospital Dr	Dublin, OH
+Kroger	Q00698	300 S Hamilton Rd	Gahanna, OH
+Kroger	Q00708	1365 Stoneridge Dr	Gahanna, OH
+Kroger	Q00687	5800 W Broad St	Galloway, OH
+Kroger	Q00857	2474 Stringtown Rd	Grove City, OH
+Kroger	Q00651	6011 Groveport Rd	Groveport, OH
+Kroger	Q00688	6417 Columbus Pike	Lewis Center, OH
+Kroger	Q00673	5161 Hampsted Village Center Way	New Albany, OH
+Kroger	Q00628	1045 Hill Rd N	Pickerington, OH
+Kroger	Q01058	12116 Sycamore Trace	Plain City, OH
+Kroger	Q00639	6580 E Main St	Reynoldsburg, OH
+Kroger	Q00646	8460 E Main St	Reynoldsburg, OH
+Kroger	Q01391	780 Northwoods Blvd	Vandalia, OH
+Kroger	Q01035	8000 Princeton Glendale Rd	West Chester, OH
+Fred Meyer	Q00832	2500 Santiam Hwy SE	Albany, OR
+Safeway	Q01871	1990 14th Ave SE	Albany, OR
+Safeway	Q00826	6055 SW 185th Ave	Aloha, OR
+Safeway	Q00855	20535 SW Tualatin Valley Hwy	Aloha, OR
+Fred Meyer	Q00138	11425 SW Beaverton Hillsdale Hwy	Beaverton, OR
+Fred Meyer	Q00140	15995 SW Walker Rd	Beaverton, OR
+Safeway	Q00201	14555 SW Teal Blvd	Beaverton, OR
+Safeway	Q00205	6194 SW Murray Blvd	Beaverton, OR
+WinCo Foods	Q00959	3025 SW Cedar Hills Blvd	Beaverton, OR
+Fred Meyer	Q01009	15995 SW Walker Rd	Beaverton, OR
+Fred Meyer	Q01011	11425 SW Beaverton Hillsdale Hwy	Beaverton, OR
+Fred Meyer	Q00151	1401 SE 1st Ave	Canby, OR
+Safeway	Q00816	1051 SW 1st Ave	Canby, OR
+Fred Meyer	Q00150	16301 SE 82nd Dr	Clackamas, OR
+Safeway	Q00204	12032 SE Sunnyside Rd	Clackamas, OR
+Fred Meyer	Q00997	16301 SE 82nd Dr	Clackamas, OR
+Fred Meyer	Q00782	2200 E Baseline St	Cornelius, OR
+WinCo Foods	Q00736	2335 NW Kings Blvd	Corvallis, OR
+Safeway	Q00952	590 Ne Circle Blvd	Corvallis, OR
+Safeway	Q01321	5270 SW Philomath Blvd	Corvallis, OR
+Safeway	Q01318	1500 E Main St	Cottage Grove, OR
+Safeway	Q00883	138 W Ellendale Ave	Dallas, OR
+Fred Meyer	Q00913	60 Division Ave	Eugene, OR
+Fred Meyer	Q00946	3333 W 11th Ave	Eugene, OR
+Albertsons	Q01121	55 Division Ave	Eugene, OR
+Albertsons	Q01294	311 Coburg Rd	Eugene, OR
+Safeway	Q01307	1500 Coburg Rd	Eugene, OR
+Albertsons	Q01367	4740 Royal Ave	Eugene, OR
+Albertsons	Q01370	1675 W 18th Ave	Eugene, OR
+WinCo Foods	Q01724	4275 Barger Dr	Eugene, OR
+WinCo Foods	Q01798	2815 Chad Dr	Eugene, OR
+Safeway	Q00779	2836 Pacific Ave	Forest Grove, OR
+Safeway	Q01124	95 82nd Dr	Gladstone, OR
+Fred Meyer	Q00190	2497 SE Burnside Rd	Gresham, OR
+Safeway	Q00195	1455 NE Division St	Gresham, OR
+Safeway	Q00220	1001 SW Highland Dr	Gresham, OR
+WinCo Foods	Q01322	2511 SE 1st St	Gresham, OR
+Fred Meyer	Q00191	8955 SE 82nd Ave	Happy Valley, OR
+Fred Meyer	Q00202	17005 SE Sunnyside Rd	Happy Valley, OR
+Fred Meyer	Q00887	8955 SE 82nd Ave	Happy Valley, OR
+WinCo Foods	Q00957	11250 SE 82nd Ave	Happy Valley, OR
+Fred Meyer	Q00146	6495 SE Tualatin Valley Hwy	Hillsboro, OR
+Fred Meyer	Q00156	6495 SE Tualatin Valley Hwy	Hillsboro, OR
+Safeway	Q00192	2177 NW 185th Ave	Hillsboro, OR
+WinCo Foods	Q00766	7330 NE Butler St	Hillsboro, OR
+WinCo Foods	Q00770	1500 SW Oak St	Hillsboro, OR
+Fred Meyer	Q00847	22075 NW NE Imbrie Dr	Hillsboro, OR
+Albertsons	Q00949	7500 SW Baseline Rd	Hillsboro, OR
+Albertsons	Q00954	888 NE 25th Ave	Hillsboro, OR
+Safeway	Q00962	2525 SE Tualatin Valley Hwy	Hillsboro, OR
+Safeway	Q01305	1755 Ivy St	Junction City, OR
+Safeway	Q00996	4990 River Rd N	Keizer, OR
+WinCo Foods	Q01802	5450 River Rd N	Keizer, OR
+Safeway	Q00822	17779 Lower Boones Ferry Rd	Lake Oswego, OR
+Albertsons	Q01067	16199 Boones Ferry Rd	Lake Oswego, OR
+Safeway	Q01362	1983 S Main St	Lebanon, OR
+WinCo Foods	Q00716	2585 NE OR-99W	McMinnville, OR
+Albertsons	Q01008	615 SW Keck Cir	McMinnville, OR
+Safeway	Q00837	2490 N OR-99W	Mcminnville, OR
+Safeway	Q00137	14840 SE Webster Rd	Milwaukie, OR
+Safeway	Q01122	4370 SE King Rd	Milwaukie, OR
+Safeway	Q01113	1524 W Main St	Molalla, OR
+Fred Meyer	Q00884	3300 Portland Rd	Newberg, OR
+Fred Meyer	Q00894	3300 Portland Rd	Newberg, OR
+Safeway	Q01115	1140 N Springbrook Rd	Newberg, OR
+Fred Meyer	Q00843	14700 SE McLoughlin Blvd	Oak Grove, OR
+Fred Meyer	Q00998	14700 SE McLoughlin Blvd	Oak Grove, OR
+Albertsons	Q01452	1410 Westpark Plaza	Ontario, OR
+WinCo Foods	Q01706	1630 E Idaho Ave	Ontario, OR
+Fred Meyer	Q00141	1839 Molalla Ave	Oregon City, OR
+Safeway	Q01116	13434 Colton Pl	Oregon City, OR
+Albertsons	Q01304	19007 S Beavercreek Rd	Oregon City, OR
+Safeway	Q00119	13485 NW Cornell Rd	Portland, OR
+Safeway	Q00120	4515 SE Woodstock Blvd	Portland, OR
+Fred Meyer	Q00133	3805 SE Hawthorne Blvd	Portland, OR
+Fred Meyer	Q00145	14700 SE Division St	Portland, OR
+Fred Meyer	Q00149	11565 SW Pacific Hwy	Portland, OR
+Fred Meyer	Q00153	3030 NE Weidler St	Portland, OR
+Fred Meyer	Q00154	6850 N Lombard St	Portland, OR
+Fred Meyer	Q00162	7404 N Interstate Ave	Portland, OR
+Fred Meyer	Q00166	6850 N Lombard St	Portland, OR
+Fred Meyer	Q00172	6615 NE Glisan St	Portland, OR
+Fred Meyer	Q00184	7404 N Interstate Ave	Portland, OR
+QFC	Q00187	7525 SW Barnes Rd	Portland, OR
+Fred Meyer	Q00188	7555 SW Barbur Blvd	Portland, OR
+Safeway	Q00211	6901 NE Sandy Blvd	Portland, OR
+Safeway	Q00215	5920 NE Martin Luther King Jr Blvd	Portland, OR
+Safeway	Q00226	3930 SE Powell Blvd	Portland, OR
+Safeway	Q00258	3527 SE 122nd Ave	Portland, OR
+Fred Meyer	Q00262	7555 SW Barbur Blvd	Portland, OR
+Safeway	Q00797	2800 SE Hawthorne Blvd	Portland, OR
+Safeway	Q00813	8330 N Ivanhoe St	Portland, OR
+QFC	Q00818	4756 NW Bethany Blvd	Portland, OR
+Safeway	Q00830	1100 NE Broadway	Portland, OR
+Fred Meyer	Q00846	14700 SE Division St	Portland, OR
+WinCo Foods	Q00955	7979 SE Powell Blvd	Portland, OR
+WinCo Foods	Q00966	1222 NE 102nd Ave	Portland, OR
+Fred Meyer	Q00990	11565 SW Pacific Hwy	Portland, OR
+Fred Meyer	Q00999	6615 NE Glisan St	Portland, OR
+Fred Meyer	Q01006	7700 SW Beaverton Hillsdale Hwy	Portland, OR
+Fred Meyer	Q01010	100 NW 20th Pl	Portland, OR
+Albertsons	Q01127	451 NE 181st Ave	Portland, OR
+Albertsons	Q01130	5850 NE Prescott St	Portland, OR
+WinCo Foods	Q01359	1950 NE 122nd Ave	Portland, OR
+WinCo Foods	Q00769	4575 Commercial St SE	Salem, OR
+Safeway	Q00821	5660 Commercial St SE	Salem, OR
+Fred Meyer	Q00833	3450 Commercial St SE	Salem, OR
+Safeway	Q00848	1455 Edgewater St NW	Salem, OR
+Fred Meyer	Q00882	3740 Market St NE	Salem, OR
+Fred Meyer	Q00891	3740 Market St NE	Salem, OR
+Safeway	Q01001	1265 Center St NE	Salem, OR
+Safeway	Q01002	3380 Lancaster Dr NE	Salem, OR
+Safeway	Q00179	37601 US-26	Sandy, OR
+Fred Meyer	Q00189	16625 362ND Ave	Sandy, OR
+Fred Meyer	Q00876	51501 Columbia River Hwy	Scappoose, OR
+Safeway	Q00209	20685 SW Roy Rogers Rd	Sherwood, OR
+Safeway	Q01120	301 Westfield St	Silverton, OR
+Fred Meyer	Q00909	650 Q St	Springfield, OR
+Albertsons	Q00951	2000 Marcola Rd	Springfield, OR
+Albertsons	Q01128	5755 S Main St	Springfield, OR
+Safeway	Q01811	1891 Pioneer Pkwy E	Springfield, OR
+Safeway	Q01135	1535 N First Ave	Stayton, OR
+Safeway	Q01131	1540 Main St	Sweet Home, OR
+Safeway	Q00587	15570 SW Pacific Hwy	Tigard, OR
+WinCo Foods	Q01324	7501 SW Dartmouth St	Tigard, OR
+Albertsons	Q00844	25691 SE Stark St	Troutdale, OR
+Fred Meyer	Q00123	19200 SW Martinazzi Ave	Tualatin, OR
+Safeway	Q00246	22000 Salamo Rd	West Linn, OR
+Fred Meyer	Q00163	30300 SW Boones Ferry Rd	Wilsonville, OR
+Safeway	Q00182	8255 SW Wilsonville Rd	Wilsonville, OR
+Fred Meyer	Q00183	22855 NE Park Ln	Wood Village, OR
+Safeway	Q01132	1550 N Pacific Hwy	Woodburn, OR
+Acme Markets	Q01571	121 E City Ave	Bala Cynwyd, PA
+Acme Markets	Q01586	5300 Baltimore Pike	Clifton Heights, PA
+Acme Markets	Q01589	105 E Street Rd	Feasterville, PA
+Acme Markets	Q01547	124 Morton Ave	Folsom, PA
+Acme Markets	Q01570	1305 West Chester Pike	Havertown, PA
+Acme Markets	Q01577	323 Old York Rd	Jenkintown, PA
+Acme Markets	Q02087	6800 New Falls Rd	Levittown, PA
+Acme Markets	Q01591	527 E Baltimore Ave	Media, PA
+Acme Markets	Q02042	48 W Rd	Newtown, PA
+Acme Markets	Q01580	39 Leopard Rd	Paoli, PA
+Acme Markets	Q01552	1400 E Passyunk Ave	Philadelphia, PA
+Acme Markets	Q01588	3200-09 Red Lion Rd	Philadelphia, PA
+Acme Markets	Q01991	6601 Roosevelt Blvd	Philadelphia, PA
+Acme Markets	Q01995	2101-41 Cottman Ave	Philadelphia, PA
+Acme Markets	Q00529	800 Second Street Pike	Richboro, PA
+Acme Markets	Q01579	700 W Lancaster Ave	Wayne, PA
+Shaw's	Q01769	186 County Rd	Barrington, RI
+Shaw's	Q01773	8 Chapel View Blvd	Cranston, RI
+Shaw's	Q01568	575 Taunton Ave	East Providence, RI
+Shaw's	Q01462	71 E Main Rd	Middletown, RI
+Shaw's	Q01762	15 Smithfield Rd	North Providence, RI
+Shaw's	Q01574	1050 Willett Ave	Riverside, RI
+Shaw's	Q01427	160 Old Tower Hill Rd	Wakefield, RI
+Tanger Outlets Nashville	Q01787	4060 Cane Ridge Pkwy	Antioch, TN
+Kroger	Q01112	210 Franklin Rd	Brentwood, TN
+Kroger	Q01125	6690 Nolensville Rd	Brentwood, TN
+Kroger	Q01033	1203 Murfreesboro Rd	Franklin, TN
+Kroger	Q01224	2020 Mallory Ln	Franklin, TN
+Kroger	Q01839	2011 Nashville Pike	Gallatin, TN
+Kroger	Q01037	123 Northcreek Blvd	Goodlettsville, TN
+Kroger	Q01772	237 E Main St	Hendersonville, TN
+Kroger	Q01823	5544 Old Hickory Blvd	Hermitage, TN
+Kroger	Q00992	4432 Veterans Pkwy	Murfreesboro, TN
+Kroger	Q01027	2946 S Church St	Murfreesboro, TN
+Kroger	Q01029	143 McGavock Pk	Nashville, TN
+Kroger	Q01034	61 E Thompson Ln	Nashville, TN
+Kroger	Q01017	463 Sam Ridley Pkwy W	Smyrna, TN
+Kroger	Q01108	2600 Memorial Blvd	Springfield, TN
+Kroger	Q01895	4726 Traders Way	Thompson's Station, TN
+Tom Thumb	Q00912	14280 Marsh Ln	Addison, TX
+Kroger	Q00950	3770 Belt Line Rd	Addison, TX
+Kroger	Q00454	1320 W McDermott Dr	Allen, TX
+Kroger	Q00903	1212 E Bethany Dr	Allen, TX
+Kroger	Q00911	1210 N Greenville Ave	Allen, TX
+Kroger	Q00297	3100 S Gordon St	Alvin, TX
+Tom Thumb	Q00906	2755 N Collins St	Arlington, TX
+WinCo Foods	Q01648	4620 S Cooper St	Arlington, TX
+Kroger	Q01660	301 S Bowen Rd	Arlington, TX
+Kroger	Q01676	945 W Lamar Blvd	Arlington, TX
+Kroger	Q01679	2350 SE Green Oaks Blvd	Arlington, TX
+Kroger	Q01857	2475 Ascension Blvd	Arlington, TX
+H-E-B	Q00778	7901 US-290	Austin, TX
+Randalls	Q01499	9911 Brodie Ln	Austin, TX
+H-E-B	Q01594	12407 MoPac Expy N	Austin, TX
+H-E-B	Q01634	2508 E Riverside Dr	Austin, TX
+H-E-B	Q01635	7301 N FM 620	Austin, TX
+H-E-B	Q01644	11521 N FM 620	Austin, TX
+Albertsons	Q00908	480 NW Pkwy St	Azle, TX
+Kroger	Q00771	1700 N Alexander Dr	Baytown, TX
+Kroger	Q01592	6315 Garth Rd	Baytown, TX
+H-E-B	Q01649	12400 State Hwy 71 W	Bee Cave, TX
+H-E-B	Q00541	5106 Bissonnet St	Bellaire, TX
+Albertsons	Q00960	833 NE Alsbury Blvd	Burleson, TX
+WinCo Foods	Q00477	2620 N Josey Ln	Carrollton, TX
+Albertsons	Q00914	2150 N Josey Ln	Carrollton, TX
+H-E-B	Q01642	2800 E Whitestone Blvd	Cedar Park, TX
+Kroger	Q01659	1617 W Henderson St	Cleburne, TX
+Kroger	Q00376	2222 Interstate 45 N	Conroe, TX
+Kroger	Q00408	341 S Loop 336 W	Conroe, TX
+H-E-B	Q01590	10200 TX-242	Conroe, TX
+H-E-B	Q01638	3601 FM 1488	Conroe, TX
+Tom Thumb	Q00915	106 N Denton Tap Rd	Coppell, TX
+Kroger	Q01866	950 E Sandy Lake Rd	Coppell, TX
+Albertsons	Q00953	4351 FM2181	Corinth, TX
+H-E-B	Q00522	14100 Spring Cypress Rd	Cypress, TX
+H-E-B	Q00524	9722 Fry Rd	Cypress, TX
+H-E-B	Q00530	24224 Northwest Fwy	Cypress, TX
+Kroger	Q00557	9703 Barker Cypress Rd	Cypress, TX
+Kroger	Q00558	17455 Spring Cypress Rd	Cypress, TX
+Kroger	Q00777	20355 Cypresswood Dr	Cypress, TX
+Tom Thumb	Q00531	4625 Frankford Rd	Dallas, TX
+Tom Thumb	Q00901	3757 Forest Ln	Dallas, TX
+Tom Thumb	Q00902	5809 E Lovers Ln	Dallas, TX
+Kroger	Q00964	17194 Preston Rd	Dallas, TX
+Kroger	Q01716	9140 Forest Ln	Dallas, TX
+Kroger	Q00881	1001 N Interstate 35 E Rd STE 500	DeSoto, TX
+Kroger	Q00965	1592 S Loop 288	Denton, TX
+Tom Thumb	Q00896	633 W Wheatland Rd	Duncanville, TX
+Kroger	Q01667	200 W Camp Wisdom Rd	Duncanville, TX
+Tom Thumb	Q00484	745 Cross Timbers Rd	Flower Mound, TX
+Kroger	Q00910	1101 Flower Mound Rd	Flower Mound, TX
+Kroger	Q00956	2709 Cross Timbers Rd	Flower Mound, TX
+Kroger	Q01640	500 Marketplace Blvd	Forney, TX
+Albertsons	Q00452	9300 Clifford St	Fort Worth, TX
+WinCo Foods	Q00461	8000 Crowley Rd	Fort Worth, TX
+Tom Thumb	Q00895	3100 S Hulen St	Fort Worth, TX
+Albertsons	Q00907	850 E Loop 820	Fort Worth, TX
+Kroger	Q00948	5241 N Tarrant Pkwy	Fort Worth, TX
+Kroger	Q00958	1653 Basswood Blvd	Fort Worth, TX
+WinCo Foods	Q01674	8968 Tehama Ridge Pkwy	Fort Worth, TX
+Kroger	Q01856	12600 N Beach St	Fort Worth, TX
+Kroger	Q00546	151 N Friendswood Dr	Friendswood, TX
+Kroger	Q01646	3205 Main St	Frisco, TX
+Kroger	Q00554	5730 Seawall Blvd	Galveston, TX
+WinCo Foods	Q00528	1122 W Centerville Rd	Garland, TX
+Kroger	Q01653	6850 N Shiloh Rd	Garland, TX
+Tom Thumb	Q00897	4215 S Carrier Pkwy	Grand Prairie, TX
+Kroger	Q01680	313 E Pioneer Pkwy	Grand Prairie, TX
+Kroger	Q00288	12222 Jones Rd	Houston, TX
+Kroger	Q00294	10306 S Post Oak Rd	Houston, TX
+Kroger	Q00298	12434 TX-249	Houston, TX
+Kroger	Q00299	9919 Westheimer Rd	Houston, TX
+Kroger	Q00300	16400 El Camino Real	Houston, TX
+Kroger	Q00302	11701 East Sam Houston Pkwy S	Houston, TX
+Kroger	Q00308	13133 Veterans Memorial Dr	Houston, TX
+Kroger	Q00309	1801 S Voss Rd	Houston, TX
+Kroger	Q00312	1440 Studemont St	Houston, TX
+Kroger	Q00389	360 Cypress Creek Pkwy	Houston, TX
+Kroger	Q00390	1505 Wirt Rd	Houston, TX
+Kroger	Q00394	10010 Cypresswood Dr	Houston, TX
+Kroger	Q00395	1520 Eldridge Pkwy	Houston, TX
+Kroger	Q00396	1035 N Shepherd Dr	Houston, TX
+Kroger	Q00402	12400 Farm to Market 1960 Rd W	Houston, TX
+Kroger	Q00405	2300 Gessner Rd	Houston, TX
+Kroger	Q00406	6322 Telephone Rd	Houston, TX
+H-E-B	Q00451	4955 Beechnut St	Houston, TX
+Kroger	Q00456	9303 S Texas 6	Houston, TX
+H-E-B	Q00457	12680 W Lake Houston Pkwy	Houston, TX
+H-E-B	Q00520	10919 Louetta Rd	Houston, TX
+H-E-B	Q00526	9503 Jones Rd	Houston, TX
+H-E-B	Q00538	5895 San Felipe St	Houston, TX
+H-E-B	Q00542	2300 N Shepherd Dr	Houston, TX
+H-E-B	Q00543	1550 Fry Rd	Houston, TX
+Randalls	Q00553	3131 W Holcombe Blvd	Houston, TX
+Kroger	Q00555	14221 East Sam Houston Pkwy N	Houston, TX
+Randalls	Q00562	2225 Louisiana St	Houston, TX
+Kroger	Q00565	9330 Jones Rd	Houston, TX
+Kroger	Q00768	9325 Katy Fwy	Houston, TX
+Randalls	Q00773	12850 Memorial Dr	Houston, TX
+Kroger	Q01881	12620 Woodforest Blvd	Houston, TX
+Kroger	Q00387	19300 W Lake Houston Pkwy	Humble, TX
+Kroger	Q00566	9475 Farm to Market 1960 Bypass Rd W	Humble, TX
+H-E-B	Q00464	1702 11th St	Huntsville, TX
+Kroger	Q01645	7505 N MacArthur Blvd	Irving, TX
+Kroger	Q00296	22150 Westheimer Pkwy	Katy, TX
+Kroger	Q00313	1712 Spring Green Blvd	Katy, TX
+Kroger	Q00378	9806 Gaston Rd	Katy, TX
+Kroger	Q00397	2700 W Grand Pkwy N	Katy, TX
+H-E-B	Q00532	25675 Nelson Way	Katy, TX
+Kroger	Q00757	6055 N Fry Rd	Katy, TX
+H-E-B	Q01808	1621 Mason Rd	Katy, TX
+H-E-B	Q01887	6711 S Fry Rd	Katy, TX
+Kroger	Q00905	2061 Rufe Snow Dr	Keller, TX
+Kroger	Q01643	976 Keller Pkwy	Keller, TX
+H-E-B	Q00462	19529 Northpark Dr	Kingwood, TX
+Kroger	Q00560	3410 Northpark Dr	Kingwood, TX
+Kroger	Q01879	25651 US-59 N	Kingwood, TX
+Kroger	Q00381	1300 W Fairmont Pkwy	La Porte, TX
+Kroger	Q00400	1920 W League City Pkwy	League City, TX
+Kroger	Q00551	2750 E League City Pkwy	League City, TX
+Randalls	Q00763	2951 Marina Bay Dr Suite B	League City, TX
+Kroger	Q01542	4620 State Hwy 121	Lewisville, TX
+WinCo Foods	Q01641	1288 W Main St	Lewisville, TX
+Kroger	Q01657	3001 Matlock Rd	Mansfield, TX
+Albertsons	Q00490	3001 S Central Expy	McKinney, TX
+Kroger	Q00534	1801 N Lake Forest Dr	McKinney, TX
+Tom Thumb	Q00904	6800 Virginia Pkwy	McKinney, TX
+Tom Thumb	Q00459	3001 Hardin Blvd	Mckinney, TX
+Albertsons	Q00482	1500 S Beltline Rd	Mesquite, TX
+Albertsons	Q00898	2828 Motley Dr	Mesquite, TX
+Tom Thumb	Q00899	1501 Pioneer Rd	Mesquite, TX
+Kroger	Q01666	2200 FM 663	Midlothian, TX
+Kroger	Q00403	6200 Hwy 6	Missouri City, TX
+Kroger	Q00407	10250 Hwy 6	Missouri City, TX
+Kroger	Q00547	20168 Eva St	Montgomery, TX
+Kroger	Q00303	22030 Market Pl Dr	New Caney, TX
+WinCo Foods	Q00458	5152 Rufe Snow Dr	North Richland Hills, TX
+Kroger	Q00539	7201 Blvd 26	North Richland Hills, TX
+Kroger	Q01663	9150 N Tarrant Pkwy	North Richland Hills, TX
+Kroger	Q00290	2619 Red Bluff Rd	Pasadena, TX
+Kroger	Q00291	3550 Spencer Hwy	Pasadena, TX
+Kroger	Q00552	6767 Spencer Hwy	Pasadena, TX
+Kroger	Q00295	3245 Broadway St	Pearland, TX
+Kroger	Q00301	8323 Broadway St	Pearland, TX
+Kroger	Q00307	11003 Shadow Creek Pkwy	Pearland, TX
+H-E-B	Q00466	2805 Business Center Dr	Pearland, TX
+H-E-B	Q01889	2710 Pearland Pkwy	Pearland, TX
+Kroger	Q00243	7100 Independence Pkwy	Plano, TX
+Kroger	Q01673	3305 Dallas Pkwy	Plano, TX
+Kroger	Q01702	2925 Custer Rd	Plano, TX
+Tom Thumb	Q00916	1380 W Campbell Rd	Richardson, TX
+Tom Thumb	Q00919	3411 Custer Pkwy	Richardson, TX
+Kroger	Q01633	536 Centennial Blvd	Richardson, TX
+Kroger	Q00304	6425 Fm 1464	Richmond, TX
+H-E-B	Q00441	10161 W Grand Pkwy S	Richmond, TX
+H-E-B	Q01593	9211 Farm to Market Rd 723	Richmond, TX
+Kroger	Q01835	25050 FM 1093	Richmond, TX
+Tom Thumb	Q00463	3070 N Goliad St	Rockwall, TX
+Kroger	Q01651	1950 N Goliad St	Rockwall, TX
+Kroger	Q00567	24401 Brazos Town Crossing	Rosenberg, TX
+Albertsons	Q00963	1201 N Saginaw Blvd	Saginaw, TX
+Kroger	Q00393	1905 El Mar Ln	Seabrook, TX
+Kroger	Q00917	1820 N Loy Lake Rd	Sherman, TX
+Kroger	Q00900	2110 E Southlake Blvd	Southlake, TX
+Kroger	Q00306	6060 Farm to Market 2920	Spring, TX
+Kroger	Q00383	3731 Riley Fuzzel Rd	Spring, TX
+Kroger	Q00404	5671 Treaschwig Rd	Spring, TX
+H-E-B	Q00533	20311 Champion Forest Dr	Spring, TX
+H-E-B	Q00544	3540 Rayford Rd	Spring, TX
+Kroger	Q00545	15802 Champion Forest Dr	Spring, TX
+Kroger	Q00549	8745 Spring Cypress Rd	Spring, TX
+Kroger	Q00561	2150 Spring Stuebner Rd	Spring, TX
+Kroger	Q00564	18518 Kuykendahl Rd	Spring, TX
+Kroger	Q00568	2301 Rayford Rd	Spring, TX
+Kroger	Q00292	18861 University Blvd	Sugar Land, TX
+Kroger	Q00305	11565 S Texas 6	Sugar Land, TX
+H-E-B	Q00470	530 Hwy 6	Sugar Land, TX
+Kroger	Q00556	4825 Sweetwater Blvd	Sugar Land, TX
+H-E-B	Q01636	19900 Southwest Fwy	Sugar Land, TX
+Kroger	Q00569	3541 Palmer Hwy	Texas City, TX
+H-E-B	Q00434	9595 Six Pines Dr	The Woodlands, TX
+H-E-B	Q00536	10777 Kuykendahl Rd	The Woodlands, TX
+Kroger	Q00559	8000 Research Forest Dr	The Woodlands, TX
+Kroger	Q00392	24350 Kuykendahl Rd	Tomball, TX
+Kroger	Q00399	14060 Farm to Market 2920	Tomball, TX
+Kroger	Q00550	3135 FM 528 Rd	Webster, TX
+H-E-B	Q01637	701 S Capital of Texas Hwy	West Lake Hills, TX
+Kroger	Q00548	12605 Interstate 45 N	Willis, TX
+Smith's	Q00812	156 S Main St	Brigham City, UT
+Smith's	Q00787	212 E 12300 S	Draper, UT
+WinCo Foods	Q01457	11969 Carlsbad Way	Herriman, UT
+Smith's	Q00793	1550 E 3500 N	Lehi, UT
+WinCo Foods	Q01715	1341 Main St	Logan, UT
+WinCo Foods	Q01449	7020 S 700 W	Midvale, UT
+Smith's	Q00798	4275 Harrison Blvd	Ogden, UT
+WinCo Foods	Q01708	205 W 12th St	Ogden, UT
+Smith's	Q00783	632 S 100 W	Payson, UT
+Smith's	Q00792	210 E 700 S	Pleasant Grove, UT
+Smith's	Q00791	4065 S Redwood Rd	Salt Lake City, UT
+Smith's	Q00794	876 E 800 S	Salt Lake City, UT
+Smith's	Q00781	2039 E 9400 S	Sandy, UT
+WinCo Foods	Q01451	2193 S Main St	South Salt Lake, UT
+Smith's	Q00795	4080 W 9000 S	West Jordan, UT
+Smith's	Q00784	4643 S 4000 W	West Valley City, UT
+Smith's	Q00802	5620 W 4100 S	West Valley City, UT
+WinCo Foods	Q01466	2572 S 5600 W	West Valley City, UT
+Safeway	Q01433	5980 Kingstowne Towne Ctr	Alexandria, VA
+Safeway	Q01434	1624 Belle View Blvd	Alexandria, VA
+Safeway	Q02075	3526 King St	Alexandria, VA
+Safeway	Q01435	7414 Little River Turnpike	Annandale, VA
+Safeway	Q01546	12821 Braemar Village Pz	Bristow, VA
+Safeway	Q01549	5727 Burke Centre Pkwy	Burke, VA
+Safeway	Q01482	3043 Nutley St	Fairfax, VA
+Safeway	Q01515	12200 Fairfax Towne Center	Fairfax, VA
+Safeway	Q02069	6118 Arlington Blvd	Falls Church, VA
+Safeway	Q01417	1688 Anderson Rd	McLean, VA
+Safeway	Q02061	4220 Merchant Plaza	Woodbridge, VA
+Safeway	Q01298	911 11th St	Anacortes, WA
+Safeway	Q01699	3532 172nd St NE	Arlington, WA
+Safeway	Q01770	20500 Olympic Pl NE	Arlington, WA
+Fred Meyer	Q00164	801 Auburn Wy N	Auburn, WA
+Safeway	Q00249	101 Auburn Way S	Auburn, WA
+Safeway	Q00804	4010 A St SE	Auburn, WA
+Safeway	Q01253	253 High School Rd NE	Bainbridge Island, WA
+Fred Meyer	Q00185	401 NW 12th Ave	Battle Ground, WA
+Albertsons	Q00942	2108 W Main St	Battle Ground, WA
+QFC	Q00788	201 NE WA-300	Belfair, WA
+Fresh	Q00152	3290 146th Pl SE Suite A	Bellevue, WA
+QFC	Q00171	3550 Factoria Blvd SE	Bellevue, WA
+QFC	Q00194	10116 NE 8th St	Bellevue, WA
+Safeway	Q00216	15100 SE 38th St	Bellevue, WA
+Fred Meyer	Q00255	2041 148th Ave NE	Bellevue, WA
+Safeway	Q00861	1645 140th Ave NE	Bellevue, WA
+QFC	Q01169	1510 145th Pl SE	Bellevue, WA
+Safeway	Q01183	300 Bellevue Way NE	Bellevue, WA
+Fresh	Q00152	3290 146th Pl SE Suite A	Bellevue, WA
+Fred Meyer	Q00233	800 Lakeway Dr	Bellingham, WA
+Fred Meyer	Q00260	1225 W Bakerview Rd	Bellingham, WA
+WinCo Foods	Q01220	300 E Bellis Fair Pkwy	Bellingham, WA
+Safeway	Q01265	1275 E Sunset Dr	Bellingham, WA
+Fred Meyer	Q00143	20901 WA-410 E	Bonney Lake, WA
+Safeway	Q00874	21301 WA-410	Bonney Lake, WA
+Fred Meyer	Q00016	21045 Bothell Everett Hwy	Bothell, WA
+Safeway	Q00026	24040 Bothell Everett Hwy	Bothell, WA
+Safeway	Q01149	20711 Bothell Everett Hwy	Bothell, WA
+Fred Meyer	Q00196	5050 WA-303	Bremerton, WA
+Safeway	Q01491	1401 NE McWilliams Rd	Bremerton, WA
+Safeway	Q01712	900 N Callow Ave	Bremerton, WA
+Fred Meyer	Q00124	14300 1st Ave S	Burien, WA
+Safeway	Q00827	12725 1st Ave S	Burien, WA
+Safeway	Q01403	138 SW 148th St	Burien, WA
+Fred Meyer	Q00224	920 S Burlington Blvd	Burlington, WA
+Fred Meyer	Q00173	16735 SE 272nd St	Covington, WA
+Safeway	Q01401	17023 SE 272nd St	Covington, WA
+Safeway	Q01141	27035 Pacific Hwy S	Des Moines, WA
+Safeway	Q01118	14020 Main St NE	Duvall, WA
+Safeway	Q01187	23632 Hwy 99	Edmonds, WA
+WinCo Foods	Q01297	21900 Hwy 99	Edmonds, WA
+Safeway	Q00239	152 Roosevelt Ave E	Enumclaw, WA
+Fred Meyer	Q00035	8530 Evergreen Wy	Everett, WA
+Fred Meyer	Q00129	12906 Bothell Everett Hwy	Everett, WA
+QFC	Q00198	2615 Broadway	Everett, WA
+Safeway	Q00234	7601 Evergreen Wy	Everett, WA
+Safeway	Q00244	5802 134th Pl SE	Everett, WA
+Safeway	Q00263	11031 19th Ave SE	Everett, WA
+Fred Meyer	Q00823	8530 Evergreen Wy	Everett, WA
+QFC	Q01085	4919 Evergreen Wy	Everett, WA
+Safeway	Q01284	1715 Broadway	Everett, WA
+Safeway	Q01413	4128 Rucker Ave	Everett, WA
+Safeway	Q01953	520 128th St SW	Everett, WA
+Fred Meyer	Q00037	33702 21st Ave SW	Federal Way, WA
+H Mart	Q00117	31217 Pacific Hwy S	Federal Way, WA
+Fred Meyer	Q00213	33702 21st Ave SW	Federal Way, WA
+Safeway	Q00851	1207 S 320th St	Federal Way, WA
+Safeway	Q01490	28810 Military Rd S	Federal Way, WA
+WinCo Foods	Q01876	160 SW Campus Dr	Federal Way, WA
+The Commons at Federal Way	Q01941	1928 S Commons	Federal Way, WA
+The Commons at Federal Way	Q01941	1928 S Commons	Federal Way, WA
+Fred Meyer	Q00228	5502 Point Fosdick Dr	Gig Harbor, WA
+Safeway	Q01327	4831 Point Fosdick Dr	Gig Harbor, WA
+Albertsons	Q01497	11330 51st Ave NW	Gig Harbor, WA
+Safeway	Q01961	10105 224th St E	Graham, WA
+Fred Meyer	Q00039	6100 E Lake Sammamish Pkwy SE	Issaquah, WA
+Safeway	Q00125	735 NW Gilman Blvd	Issaquah, WA
+QFC	Q01070	1540 NW Gilman Blvd	Issaquah, WA
+Safeway	Q01139	1451 Highlands Dr NE	Issaquah, WA
+QFC	Q01479	4570 Klahanie Dr. SE	Issaquah, WA
+Safeway	Q00836	6850 NE Bothell Way	Kenmore, WA
+Fred Meyer	Q00158	25250 Pacific Hwy S	Kent, WA
+Fred Meyer	Q00175	10201 SE 240th St	Kent, WA
+QFC	Q00219	13304 SE 240th St	Kent, WA
+Safeway	Q00241	210 Washington Ave S	Kent, WA
+WinCo Foods	Q00940	21100 91st Pl S	Kent, WA
+Safeway	Q01094	13101 SE Kent-Kangley Rd	Kent, WA
+Safeway	Q01137	20830 108th Ave SE	Kent, WA
+Fred Meyer	Q00014	12221 120th Ave NE	Kirkland, WA
+Safeway	Q00229	14444 124th Ave NE	Kirkland, WA
+Fred Meyer	Q00238	12221 120th Ave NE	Kirkland, WA
+Safeway	Q00613	10020 NE 137th St	Kirkland, WA
+Safeway	Q01412	12519 NE 85th St	Kirkland, WA
+Safeway	Q01259	4700 Yelm Hwy SE	Lacey, WA
+Safeway	Q01455	6200 Pacific Ave SE	Lacey, WA
+QFC	Q01942	4775 Whitman Ln SE	Lacey, WA
+Safeway	Q00384	717 WA-9 NE	Lake Stevens, WA
+Safeway	Q00859	10223 Gravelly Lake Dr SW	Lakewood, WA
+Safeway	Q00115	2930 Ocean Beach Hwy	Longview, WA
+Safeway	Q00945	1227 15th Ave	Longview, WA
+Fred Meyer	Q00994	3184 Ocean Beach Hwy	Longview, WA
+WinCo Foods	Q01789	120 Triangle Shopping Center	Longview, WA
+Safeway	Q01246	8071 Guide Meridian Rd	Lynden, WA
+H Mart	Q00130	3301 184th St SW	Lynnwood, WA
+Fred Meyer	Q00165	4615 196th St SW	Lynnwood, WA
+Fred Meyer	Q00174	2902 164th St SW	Lynnwood, WA
+Safeway	Q00203	14826 Hwy 99	Lynnwood, WA
+Safeway	Q01302	19500 Hwy 99	Lynnwood, WA
+Safeway	Q01399	12811 Beverly Park Rd	Lynnwood, WA
+Fred Meyer	Q00111	26520 Maple Valley Black Diamond Rd SE	Maple Valley, WA
+Safeway	Q00869	26916 Maple Valley Black Diamond Rd Se	Maple Valley, WA
+Fred Meyer	Q00142	9925 State Ave	Marysville, WA
+Fred Meyer	Q00247	9925 State Ave	Marysville, WA
+Safeway	Q01136	1258 State Ave	Marysville, WA
+WinCo Foods	Q01273	3947 116th St NE	Marysville, WA
+Albertsons	Q01782	301 Marysville Mall	Marysville, WA
+Safeway	Q00250	16304 Bothell Everett Hwy	Mill Creek, WA
+QFC	Q01154	926 164th St SE	Mill Creek, WA
+Albertsons	Q01788	3322 132nd St SE	Mill Creek, WA
+Safeway	Q01958	900 Meridian Ave E	Milton, WA
+Fred Meyer	Q00148	18805 State Route 2	Monroe, WA
+Fred Meyer	Q00221	18805 State Route 2	Monroe, WA
+Safeway	Q01295	19651 US-2	Monroe, WA
+Safeway	Q01188	315 E College Way	Mount Vernon, WA
+Safeway	Q00259	4301 212th St SW	Mountlake Terrace, WA
+QFC	Q00808	22803 44th Ave W	Mountlake Terrace, WA
+QFC	Q01087	11700 Mukilteo Speedway	Mukilteo, WA
+Safeway	Q00240	6911 Coal Creek Pkwy Se	Newcastle, WA
+QFC	Q00805	6940 Coal Creek Pkwy SE	Newcastle, WA
+QFC	Q00811	460 E North Bend Way	North Bend, WA
+Safeway	Q01488	460 SW Mt Si Blvd	North Bend, WA
+WinCo Foods	Q00947	7540 Martin Way E	Olympia, WA
+Safeway	Q01288	1243 Marvin Rd NE	Olympia, WA
+Safeway	Q01293	3215 Harrison Ave NW	Olympia, WA
+Safeway	Q01315	4280 Martin Way E	Olympia, WA
+Albertsons	Q01487	3520 Pacific Ave SE	Olympia, WA
+Safeway	Q01419	215 Whitesell St NW	Orting, WA
+Fred Meyer	Q00237	1900 SE Sedgwick Rd	Port Orchard, WA
+Albertsons	Q01254	1434 Olney Ave SE	Port Orchard, WA
+Safeway	Q01280	370 SW Sedgwick Rd	Port Orchard, WA
+Safeway	Q01959	3355 Bethel Rd SE	Port Orchard, WA
+Safeway	Q01478	19245 10th Ave NE	Poulsbo, WA
+Fred Meyer	Q00131	17404 Meridian E	Puyallup, WA
+Fred Meyer	Q00147	1100 N Meridian	Puyallup, WA
+Safeway	Q00178	5616 176th St E	Puyallup, WA
+Safeway	Q00868	13308 Meridian E	Puyallup, WA
+Fred Meyer	Q00993	17404 Meridian E	Puyallup, WA
+Albertsons	Q01402	11012 Canyon Rd E	Puyallup, WA
+Safeway	Q01405	11501 Canyon Rd E	Puyallup, WA
+Safeway	Q01493	708 Shaw Rd E	Puyallup, WA
+WinCo Foods	Q01689	9518 176th St E	Puyallup, WA
+Fred Meyer	Q00022	17667 NE 76th St	Redmond, WA
+QFC	Q00106	8867 161st Avenue Northeast	Redmond, WA
+Safeway	Q00401	15000 NE 24th St	Redmond, WA
+QFC	Q01153	15800 Redmond Way	Redmond, WA
+QFC	Q01317	23475 NE Novelty Hill Rd	Redmond, WA
+Safeway	Q01414	17246 Redmond Way	Redmond, WA
+H Mart	Q01700	7589 170th Ave NE	Redmond, WA
+Safeway	Q00025	4300 NE 4th St	Renton, WA
+Fred Meyer	Q00034	365 Renton Center Way SW	Renton, WA
+Fred Meyer	Q00176	17801 108th Ave SE	Renton, WA
+Safeway	Q00223	17230 140th Ave SE	Renton, WA
+Safeway	Q01197	200 S 3rd St	Renton, WA
+Safeway	Q00326	630 228th Ave NE	Sammamish, WA
+QFC	Q00814	2902 228th Ave SE	Sammamish, WA
+Safeway	Q00254	4011 S 164th St	SeaTac, WA
+Fred Meyer	Q00116	915 NW 45th St	Seattle, WA
+Safeway	Q00132	12318 15th Ave NE	Seattle, WA
+Fred Meyer	Q00135	13000 Lake City Way NE	Seattle, WA
+Safeway	Q00159	1410 E John St	Seattle, WA
+Safeway	Q00180	8340 15th Ave NW	Seattle, WA
+Fred Meyer	Q00230	100 NW 85th St	Seattle, WA
+WestField	Q00235	2800 Southcenter Mall	Seattle, WA
+QFC	Q00245	1401 Broadway	Seattle, WA
+Safeway	Q00256	3820 Rainier Ave S	Seattle, WA
+QFC	Q00264	11100 Roosevelt Way NE	Seattle, WA
+WestField	Q00329	2800 Southcenter Mall	Seattle, WA
+Fred Meyer	Q00789	915 NW 45th St	Seattle, WA
+QFC	Q00810	5700 24th Ave NW	Seattle, WA
+QFC	Q00873	9999 Holman Rd NW	Seattle, WA
+QFC	Q01012	1600 W Dravus St	Seattle, WA
+Safeway	Q01144	2622 California Ave SW	Seattle, WA
+QFC	Q01156	2746 NE 45th St	Seattle, WA
+Safeway	Q01159	9262 Rainier Ave S	Seattle, WA
+QFC	Q01168	2500 SW Barton St	Seattle, WA
+QFC	Q01175	417 Broadway E #2	Seattle, WA
+Safeway	Q01192	9620 28th Ave SW	Seattle, WA
+Safeway	Q01418	7300 Roosevelt Way NE	Seattle, WA
+Safeway	Q01420	3900 S Othello St	Seattle, WA
+Safeway	Q01682	7340 35th Ave NE	Seattle, WA
+Safeway	Q01946	516 1st Ave W	Seattle, WA
+Albertsons	Q01957	2550 32nd Ave W	Seattle, WA
+Safeway	Q01281	600 W Franklin St	Shelton, WA
+Fred Meyer	Q00038	18325 Aurora Ave N	Shoreline, WA
+Safeway	Q00257	15332 Aurora Ave N	Shoreline, WA
+Safeway	Q00845	17202 15th Ave NE	Shoreline, WA
+Safeway	Q01489	2890 NW Bucklin Hill Rd	Silverdale, WA
+Fred Meyer	Q00186	2801 Bickford Ave	Snohomish, WA
+Fred Meyer	Q00197	2801 Bickford Ave	Snohomish, WA
+Safeway	Q01775	17520 WA-9	Snohomish, WA
+Safeway	Q00807	34828 SE Douglas St	Snoqualmie, WA
+Fred Meyer	Q00866	22303 Mountain Hwy E	Spanaway, WA
+Fred Meyer	Q00136	1201 Valley Ave	Sumner, WA
+WinCo Foods	Q00727	6621 166th Ave E	Sumner, WA
+Simon Tacoma Mall	Q00031	S Steele St	Tacoma, WA
+Fred Meyer	Q00161	4505 S 19th St	Tacoma, WA
+Safeway	Q00181	1302 S 38th St	Tacoma, WA
+Safeway	Q00222	3842 Bridgeport Way W	Tacoma, WA
+Safeway	Q00227	15805 Pacific Ave S	Tacoma, WA
+Albertsons	Q00820	104 Military Rd S	Tacoma, WA
+Safeway	Q00839	2637 N Pearl St	Tacoma, WA
+Safeway	Q00854	8611 Steilacoom Blvd SW	Tacoma, WA
+WinCo Foods	Q00961	1913 S 72nd St	Tacoma, WA
+Safeway	Q01119	707 S 56th St	Tacoma, WA
+Safeway	Q01400	1624 E 72nd St	Tacoma, WA
+WinCo Foods	Q01805	6201 6th Ave	Tacoma, WA
+Safeway	Q01000	500 Cleveland Ave SE	Tumwater, WA
+Safeway	Q01949	705 Trosper Rd SW	Tumwater, WA
+Fred Meyer	Q00225	6305 Bridgeport Way W	University Place, WA
+Safeway	Q00121	6700 NE 162nd Ave	Vancouver, WA
+WinCo Foods	Q00127	11310 NE 119th St	Vancouver, WA
+Fred Meyer	Q00139	16600 SE McGillivray Blvd	Vancouver, WA
+Safeway	Q00144	6711 NE 63rd St	Vancouver, WA
+Fred Meyer	Q00155	800 NE Tenney Rd	Vancouver, WA
+Fred Meyer	Q00157	16600 SE McGillivray Blvd	Vancouver, WA
+Fred Meyer	Q00199	800 NE Tenney Rd	Vancouver, WA
+Fred Meyer	Q00206	2500 Columbia House Blvd	Vancouver, WA
+Safeway	Q00207	2615 NE 112th Ave	Vancouver, WA
+Fred Meyer	Q00208	11325 SE Mill Plain Blvd	Vancouver, WA
+Fred Meyer	Q00210	2500 Columbia House Blvd	Vancouver, WA
+Fred Meyer	Q00212	7700 NE Hwy 99	Vancouver, WA
+Safeway	Q00214	408 NE 81st St	Vancouver, WA
+Safeway	Q00217	6701 E Mill Plain Blvd	Vancouver, WA
+Fred Meyer	Q00218	11325 SE Mill Plain Blvd	Vancouver, WA
+Fred Meyer	Q00236	7411 NE 117th Ave	Vancouver, WA
+Fred Meyer	Q00242	7700 NE Hwy 99	Vancouver, WA
+Fred Meyer	Q00261	7411 NE 117th Ave	Vancouver, WA
+Safeway	Q00734	3707 Main St	Vancouver, WA
+QFC	Q00800	3505 SE 192nd Ave	Vancouver, WA
+Safeway	Q00850	13023 NE Hwy 99	Vancouver, WA
+Safeway	Q01004	14300 NE 20th Ave	Vancouver, WA
+WinCo Foods	Q01357	905 NE 136th Ave	Vancouver, WA
+WinCo Foods	Q01371	9700 NE Hwy 99	Vancouver, WA
+WinCo Foods	Q01800	2101 NE Andresen Rd	Vancouver, WA
+Safeway	Q01485	3307 Evergreen Way	Washougal, WA
+Safeway	Q00232	19150 NE Woodinville Duvall Rd	Woodinville, WA
+Pick 'n Save	Q01073	2700 N Ballard Rd	Appleton, WI
+Woodman's Market	Q01731	595 N Westhill Blvd	Appleton, WI
+Metro Market	Q01664	17630 W Bluemound Rd	Brookfield, WI
+Pick 'n Save	Q01678	17295 W Capitol Dr	Brookfield, WI
+Pick 'n Save	Q01732	15170 W Greenfield Ave	Brookfield, WI
+Pick 'n Save	Q00730	9200 N Green Bay Rd	Brown Deer, WI
+Pick 'n Save	Q01086	3010 Cahill Main	Fitchburg, WI
+Pick 'n Save	Q01652	N112W16200 Mequon Rd	Germantown, WI
+Pick 'n Save	Q01650	301 Falls Rd	Grafton, WI
+Woodman's Market	Q01557	2400 Duck Creek Pkwy	Green Bay, WI
+Pick 'n Save	Q01093	3161 Village Square Dr	Hartland, WI
+Pick 'n Save	Q00694	5710 75th St	Kenosha, WI
+Woodman's Market	Q00709	7145 120th Ave	Kenosha, WI
+Pick 'n Save	Q01040	2811 18th St	Kenosha, WI
+Pick 'n Save	Q00693	6655 McKee Rd	Madison, WI
+Metro Market	Q01504	6010 Cottage Grove Rd	Madison, WI
+Pick 'n Save	Q01111	W14435 Appleton Ave	Menomonee Falls, WI
+Pick 'n Save	Q00160	605 E Lyon St	Milwaukee, WI
+Pick 'n Save	Q01114	7401 Good Hope Rd	Milwaukee, WI
+Pick 'n Save	Q01677	5700 W Capitol Dr	Milwaukee, WI
+Pick 'n Save	Q01044	2820 S Green Bay Rd	Mount Pleasant, WI
+Pick 'n Save	Q01786	1010 N Rochester St	Mukwonago, WI
+Pick 'n Save	Q01052	8770 S Howell Ave	Oak Creek, WI
+Metro Market	Q01654	2160 Silvernail Rd	Pewaukee, WI
+Pick 'n Save	Q01047	1202 N Green Bay Rd	Racine, WI
+Woodman's Market	Q01797	1099 S Grand Ave	Sun Prairie, WI
+Metro Market	Q01095	N65W24838 Main St	Sussex, WI
+Pick 'n Save	Q01799	405 N Wales Rd	Wales, WI
+Woodman's Market	Q01394	1600 E Main St	Waukesha, WI
+Pick 'n Save	Q01053	2625 S 108th St	West Allis, WI
+
