@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Frys",
+    "address": "5140 W Baseline Rd",
+    "city": "Laveen Village",
+    "state": "AZ",
+    "lat": 33.3793952164308,
+    "lng": -112.17030019999942
+  },
+  {
+    "name": "Safeway",
+    "address": "5035 W Baseline Rd",
+    "city": "Laveen Village",
+    "state": "AZ",
+    "lat": 33.37633932185299,
+    "lng": -112.16631563743347
+  },
+  {
+    "name": "Safeway",
+    "address": "40950 N Ironwood Dr",
+    "city": "Queen Creek",
+    "state": "AZ",
+    "lat": 33.25104601712953,
+    "lng": -111.56524068467206
+  },
+  {
+    "name": "Frys",
+    "address": "10450 N 90th St",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "lat": 33.58078749879281,
+    "lng": -111.88953031534363
+  },
+  {
+    "name": "Safeway",
+    "address": "6501 E Greenway Pkwy Bldg 4",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "lat": 33.62412529607254,
+    "lng": -111.94171799629406
+  },
+  {
+    "name": "Safeway",
+    "address": "7920 E Chaparral Rd",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "lat": 33.510524362224686,
+    "lng": -111.91045039940458
+  },
+  {
+    "name": "Frys",
+    "address": "13982 W Waddell Rd",
+    "city": "Surprise",
+    "state": "AZ",
+    "lat": 33.61111154903886,
+    "lng": -112.36147333253975
+  },
+  {
+    "name": "Safeway",
+    "address": "13828 W Waddell Rd",
+    "city": "Surprise",
+    "state": "AZ",
+    "lat": 33.61050386885627,
+    "lng": -112.35737029484363
+  },
+  {
+    "name": "Safeway",
+    "address": "2550 Bell Rd",
+    "city": "Auburn",
+    "state": "CA",
+    "lat": 38.9440147305823,
+    "lng": -121.09288533666614
+  },
+  {
+    "name": "Vons",
+    "address": "11800 De Palma Rd",
+    "city": "Corona",
+    "state": "CA",
+    "lat": 33.74736108482118,
+    "lng": -117.45320931445247
+  },
+  {
+    "name": "Lucky",
+    "address": "1000 El Cerrito Plaza",
+    "city": "El Cerrito",
+    "state": "CA",
+    "lat": 37.90068180471349,
+    "lng": -122.29850643502137
+  },
+  {
+    "name": "Vons",
+    "address": "311 W Los Feliz Rd",
+    "city": "Glendale",
+    "state": "CA",
+    "lat": 34.12942697403185,
+    "lng": -118.25861306993977
+  },
+  {
+    "name": "Vons",
+    "address": "163 S Turnpike Rd",
+    "city": "Goleta",
+    "state": "CA",
+    "lat": 34.437649272496834,
+    "lng": -119.79053501964229
+  },
+  {
+    "name": "Pavilions",
+    "address": "4365 Glencoe Ave",
+    "city": "Marina del Rey",
+    "state": "CA",
+    "lat": 33.98511903045337,
+    "lng": -118.43976827790884
+  },
+  {
+    "name": "Vons",
+    "address": "2495 Truxtun Rd Ste 28",
+    "city": "San Diego",
+    "state": "CA",
+    "lat": 32.737013312288255,
+    "lng": -117.21630749825088
+  },
+  {
+    "name": "WinCo Foods",
+    "address": "2850 Pavilion Pkwy",
+    "city": "Tracy",
+    "state": "CA",
+    "lat": 37.75899480537101,
+    "lng": -121.4683011386224
+  },
+  {
+    "name": "King Soopers",
+    "address": "10406 M.L.K. Jr Blvd",
+    "city": "Denver",
+    "state": "CO",
+    "lat": 39.759479499891874,
+    "lng": -104.86663390674488
+  },
+  {
+    "name": "Safeway",
+    "address": "3851 S Hwy 74",
+    "city": "Evergreen",
+    "state": "CO",
+    "lat": 39.64569841439176,
+    "lng": -105.3400357037045
+  },
+  {
+    "name": "King Soopers",
+    "address": "2205 W Wildcat Reserve Pkwy",
+    "city": "Highlands Ranch",
+    "state": "CO",
+    "lat": 39.536490497151256,
+    "lng": -105.01379272149478
+  },
+  {
+    "name": "King Soopers",
+    "address": "8673 S Quebec St",
+    "city": "Highlands Ranch",
+    "state": "CO",
+    "lat": 39.558799224659055,
+    "lng": -104.90777117731483
+  },
+  {
+    "name": "King Soopers",
+    "address": "4000 Red Cedar Dr",
+    "city": "Highlands Ranch",
+    "state": "CO",
+    "lat": 39.525450926727615,
+    "lng": -104.94031261190135
+  },
+  {
+    "name": "King Soopers",
+    "address": "8126 S Wadsworth Blvd",
+    "city": "Littleton",
+    "state": "CO",
+    "lat": 39.568364707608055,
+    "lng": -105.08151111104412
+  },
+  {
+    "name": "Acme Markets",
+    "address": "1 University Dr",
+    "city": "Newark",
+    "state": "DE",
+    "lat": 39.666930881676045,
+    "lng": -75.67185798465518
+  },
+  {
+    "name": "Kroger",
+    "address": "3330 Cobb Pkwy NW",
+    "city": "Acworth",
+    "state": "GA",
+    "lat": 34.036318908628665,
+    "lng": -84.67714986137669
+  },
+  {
+    "name": "Kroger",
+    "address": "12870 GA-9 N",
+    "city": "Alpharetta",
+    "state": "GA",
+    "lat": 34.09613762126701,
+    "lng": -84.27770898332784
+  },
+  {
+    "name": "Kroger",
+    "address": "227 Sandy Springs Pl NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "lat": 33.92026976051762,
+    "lng": -84.3814838121639
+  },
+  {
+    "name": "Kroger",
+    "address": "3855 Buford Hwy NE",
+    "city": "Brookhaven",
+    "state": "GA",
+    "lat": 33.85558262964313,
+    "lng": -84.31363480475406
+  },
+  {
+    "name": "Kroger",
+    "address": "1745 Hwy 138 SE",
+    "city": "Conyers",
+    "state": "GA",
+    "lat": 33.64376117636576,
+    "lng": -84.01689727467527
+  },
+  {
+    "name": "Kroger",
+    "address": "4155 Lawrenceville Hwy NW",
+    "city": "Lilburn",
+    "state": "GA",
+    "lat": 33.904698239076545,
+    "lng": -84.12107624749864
+  },
+  {
+    "name": "Kroger",
+    "address": "3600 Dallas Hwy SW",
+    "city": "Marietta",
+    "state": "GA",
+    "lat": 33.955320826977946,
+    "lng": -84.6561798634918
+  },
+  {
+    "name": "Kroger",
+    "address": "2000 GA-155 N",
+    "city": "McDonough",
+    "state": "GA",
+    "lat": 33.50471312629355,
+    "lng": -84.14010655388479
+  },
+  {
+    "name": "Kroger",
+    "address": "1751 Newnan Xing Blvd E",
+    "city": "Newnan",
+    "state": "GA",
+    "lat": 33.37736683719685,
+    "lng": -84.75189744907344
+  },
+  {
+    "name": "Kroger",
+    "address": "3150 GA-34 E",
+    "city": "Newnan",
+    "state": "GA",
+    "lat": 33.409297405703875,
+    "lng": -84.679508234918
+  },
+  {
+    "name": "Kroger",
+    "address": "1670 Scenic Hwy N",
+    "city": "Snellville",
+    "state": "GA",
+    "lat": 33.882947469537584,
+    "lng": -84.00800540765542
+  },
+  {
+    "name": "Kroger",
+    "address": "3618 Hwy 138 SE",
+    "city": "Stockbridge",
+    "state": "GA",
+    "lat": 33.550299915369706,
+    "lng": -84.27159321778994
+  },
+  {
+    "name": "Kroger",
+    "address": "12050 GA-92 Ste 112",
+    "city": "Woodstock",
+    "state": "GA",
+    "lat": 34.0865812874917,
+    "lng": -84.48616779629444
+  },
+  {
+    "name": "Food 4 Less",
+    "address": "2400 W Main St",
+    "city": "Evanston",
+    "state": "IL",
+    "lat": 42.03270451931263,
+    "lng": -87.70721530066287
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "21164 S LaGrange Rd",
+    "city": "Frankfort",
+    "state": "IL",
+    "lat": 41.50489823907669,
+    "lng": -87.85334079901955
+  },
+  {
+    "name": "Woodman's Market",
+    "address": "27555 W IL-120",
+    "city": "Lakemoor",
+    "state": "IL",
+    "lat": 42.320579322076846,
+    "lng": -88.16865832942946
+  },
+  {
+    "name": "Food 4 Less",
+    "address": "2501 W North Ave",
+    "city": "Melrose Park",
+    "state": "IL",
+    "lat": 41.9095470720489,
+    "lng": -87.86563369580351
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "13460 S Rte 59",
+    "city": "Plainfield",
+    "state": "IL",
+    "lat": 41.63811019081999,
+    "lng": -88.20575802792415
+  },
+  {
+    "name": "Jewel-Osco",
+    "address": "17117 S Harlem Ave",
+    "city": "Tinley Park",
+    "state": "IL",
+    "lat": 41.57936208770482,
+    "lng": -87.79193796626934
+  },
+  {
+    "name": "Kroger",
+    "address": "5961 N State Rd 135",
+    "city": "Greenwood",
+    "state": "IN",
+    "lat": 39.56207036576244,
+    "lng": -86.1558364767206
+  },
+  {
+    "name": "Kroger",
+    "address": "680 Twin Aire Dr",
+    "city": "Indianapolis",
+    "state": "IN",
+    "lat": 39.75776510862122,
+    "lng": -86.11487509384742
+  },
+  {
+    "name": "Safeway",
+    "address": "15916 S Crain Hwy",
+    "city": "Brandywine",
+    "state": "MD",
+    "lat": 38.674324379165334,
+    "lng": -76.87253055183601
+  },
+  {
+    "name": "Safeway",
+    "address": "5485 Harpers Farm Rd A",
+    "city": "Columbia",
+    "state": "MD",
+    "lat": 39.22327028678027,
+    "lng": -76.8894911951055
+  },
+  {
+    "name": "Safeway",
+    "address": "5485 Harpers Farm Rd A",
+    "city": "Columbia",
+    "state": "MD",
+    "lat": 39.22326820890422,
+    "lng": -76.88950728835945
+  },
+  {
+    "name": "Shaw's",
+    "address": "690 Depot St",
+    "city": "North Easton",
+    "state": "MA",
+    "lat": 42.024337545278804,
+    "lng": -71.1163758447733
+  },
+  {
+    "name": "Shaw's",
+    "address": "300 New State Hwy",
+    "city": "Raynham",
+    "state": "MA",
+    "lat": 41.90678769615984,
+    "lng": -71.05394272221307
+  },
+  {
+    "name": "Kroger",
+    "address": "30935 Five Mile Rd",
+    "city": "Livonia",
+    "state": "MI",
+    "lat": 42.39674700863406,
+    "lng": -83.34846615456021
+  },
+  {
+    "name": "Kroger",
+    "address": "64660 Van Dyke Ave",
+    "city": "Washington",
+    "state": "MI",
+    "lat": 42.77062265089994,
+    "lng": -83.01622330527863
+  },
+  {
+    "name": "Kroger",
+    "address": "5161 Hampsted Village Center Way",
+    "city": "New Albany",
+    "state": "OH",
+    "lat": 40.08880742308631,
+    "lng": -82.82565654550733
+  },
+  {
+    "name": "Kroger",
+    "address": "12116 Sycamore Trace",
+    "city": "Plain City",
+    "state": "OH",
+    "lat": 40.188031526937166,
+    "lng": -83.20144373068688
+  },
+  {
+    "name": "Fred Meyer",
+    "address": "22075 NW NE Imbrie Dr",
+    "city": "Hillsboro",
+    "state": "OR",
+    "lat": 45.551528156684434,
+    "lng": -122.90342339126225
+  },
+  {
+    "name": "Albertsons",
+    "address": "7500 SW Baseline Rd",
+    "city": "Hillsboro",
+    "state": "OR",
+    "lat": 45.514730976960266,
+    "lng": -122.9041549313516
+  },
+  {
+    "name": "WinCo Foods",
+    "address": "2585 NE OR-99W",
+    "city": "McMinnville",
+    "state": "OR",
+    "lat": 45.23070799422395,
+    "lng": -123.17218765767107
+  },
+  {
+    "name": "Safeway",
+    "address": "2490 N OR-99W",
+    "city": "Mcminnville",
+    "state": "OR",
+    "lat": 45.22732312901227,
+    "lng": -123.1727181796229
+  },
+  {
+    "name": "Albertsons",
+    "address": "5755 S Main St",
+    "city": "Springfield",
+    "state": "OR",
+    "lat": 44.04416824403478,
+    "lng": -122.92751469999953
+  },
+  {
+    "name": "Acme Markets",
+    "address": "3200-09 Red Lion Rd",
+    "city": "Philadelphia",
+    "state": "PA",
+    "lat": 40.07940834024312,
+    "lng": -74.99323469629392
+  },
+  {
+    "name": "Acme Markets",
+    "address": "2101-41 Cottman Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "lat": 40.05050356887638,
+    "lng": -75.06153742700567
+  },
+  {
+    "name": "Acme Markets",
+    "address": "800 Second Street Pike",
+    "city": "Richboro",
+    "state": "PA",
+    "lat": 40.207768501232614,
+    "lng": -75.0123955625644
+  },
+  {
+    "name": "Shaw's",
+    "address": "186 County Rd",
+    "city": "Barrington",
+    "state": "RI",
+    "lat": 41.736676722469234,
+    "lng": -71.30670933862206
+  },
+  {
+    "name": "Shaw's",
+    "address": "8 Chapel View Blvd",
+    "city": "Cranston",
+    "state": "RI",
+    "lat": 41.75468762891999,
+    "lng": -71.46111414763739
+  },
+  {
+    "name": "Shaw's",
+    "address": "1050 Willett Ave",
+    "city": "Riverside",
+    "state": "RI",
+    "lat": 41.759872994779755,
+    "lng": -71.34378481287938
+  },
+  {
+    "name": "Kroger",
+    "address": "463 Sam Ridley Pkwy W",
+    "city": "Smyrna",
+    "state": "TN",
+    "lat": 35.98332629378262,
+    "lng": -86.55078725078687
+  },
+  {
+    "name": "H-E-B",
+    "address": "12400 State Hwy 71 W",
+    "city": "Bee Cave",
+    "state": "TX",
+    "lat": 30.304619756199262,
+    "lng": -97.93227167327868
+  },
+  {
+    "name": "Albertsons",
+    "address": "4351 FM2181",
+    "city": "Corinth",
+    "state": "TX",
+    "lat": 33.15215774180156,
+    "lng": -97.10516608465304
+  },
+  {
+    "name": "Kroger",
+    "address": "1001 N Interstate 35 E Rd STE 500",
+    "city": "DeSoto",
+    "state": "TX",
+    "lat": 32.60710678501485,
+    "lng": -96.8254764962951
+  },
+  {
+    "name": "Kroger",
+    "address": "12400 Farm to Market 1960 Rd W",
+    "city": "Houston",
+    "state": "TX",
+    "lat": 29.924033620400895,
+    "lng": -95.604446134918
+  },
+  {
+    "name": "Kroger",
+    "address": "9475 Farm to Market 1960 Bypass Rd W",
+    "city": "Humble",
+    "state": "TX",
+    "lat": 30.00705491366079,
+    "lng": -95.28130372693109
+  },
+  {
+    "name": "Kroger",
+    "address": "25651 US-59 N",
+    "city": "Kingwood",
+    "state": "TX",
+    "lat": 30.07201037201841,
+    "lng": -95.24314858220818
+  },
+  {
+    "name": "Kroger",
+    "address": "2750 E League City Pkwy",
+    "city": "League City",
+    "state": "TX",
+    "lat": 29.507674751229192,
+    "lng": -95.04146299570024
+  },
+  {
+    "name": "Albertsons",
+    "address": "1500 S Beltline Rd",
+    "city": "Mesquite",
+    "state": "TX",
+    "lat": 32.74539098708096,
+    "lng": -96.59543601719612
+  },
+  {
+    "name": "H-E-B",
+    "address": "10161 W Grand Pkwy S",
+    "city": "Richmond",
+    "state": "TX",
+    "lat": 29.659825345370205,
+    "lng": -95.71345260859748
+  },
+  {
+    "name": "H-E-B",
+    "address": "9211 Farm to Market Rd 723",
+    "city": "Richmond",
+    "state": "TX",
+    "lat": 29.696283798090118,
+    "lng": -95.8140926484834
+  },
+  {
+    "name": "Kroger",
+    "address": "25050 FM 1093",
+    "city": "Richmond",
+    "state": "TX",
+    "lat": 29.70048012741564,
+    "lng": -95.81161773068793
+  },
+  {
+    "name": "Kroger",
+    "address": "3135 FM 528 Rd",
+    "city": "Webster",
+    "state": "TX",
+    "lat": 29.52092209558231,
+    "lng": -95.15989131275755
+  },
+  {
+    "name": "Smith's",
+    "address": "4080 W 9000 S",
+    "city": "West Jordan",
+    "state": "UT",
+    "lat": 40.588967166453216,
+    "lng": -111.987646420376
+  },
+  {
+    "name": "Smith's",
+    "address": "5620 W 4100 S",
+    "city": "West Valley City",
+    "state": "UT",
+    "lat": 40.683941664109255,
+    "lng": -112.02583850674529
+  },
+  {
+    "name": "Safeway",
+    "address": "5980 Kingstowne Towne Ctr",
+    "city": "Alexandria",
+    "state": "VA",
+    "lat": 38.76996989650156,
+    "lng": -77.14129241838472
+  },
+  {
+    "name": "Safeway",
+    "address": "1624 Belle View Blvd",
+    "city": "Alexandria",
+    "state": "VA",
+    "lat": 38.77658517252582,
+    "lng": -77.0606889269836
+  },
+  {
+    "name": "Safeway",
+    "address": "12821 Braemar Village Pz",
+    "city": "Bristow",
+    "state": "VA",
+    "lat": 38.74998013014761,
+    "lng": -77.57118575714665
+  },
+  {
+    "name": "Safeway",
+    "address": "20500 Olympic Pl NE",
+    "city": "Arlington",
+    "state": "WA",
+    "lat": 48.18249402330021,
+    "lng": -122.12794826296572
+  },
+  {
+    "name": "Fresh",
+    "address": "3290 146th Pl SE Suite A",
+    "city": "Bellevue",
+    "state": "WA",
+    "lat": 47.57625222555044,
+    "lng": -122.17123636991296
+  },
+  {
+    "name": "Fresh",
+    "address": "3290 146th Pl SE Suite A",
+    "city": "Bellevue",
+    "state": "WA",
+    "lat": 47.57693788657043,
+    "lng": -122.1716848166244
+  }
+]

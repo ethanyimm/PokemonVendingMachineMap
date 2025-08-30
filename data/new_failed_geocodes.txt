@@ -1,0 +1,428 @@
+FAILED GEOCODING - NEED MANUAL COORDINATES
+==================================================
+
+1. Frys
+   Address: 5140 W Baseline Rd, Laveen Village, AZ
+   ID: frys_Q00598
+   Machine ID: Q00598
+----------------------------------------
+2. Safeway
+   Address: 5035 W Baseline Rd, Laveen Village, AZ
+   ID: safeway_Q01290
+   Machine ID: Q01290
+----------------------------------------
+3. Safeway
+   Address: 40950 N Ironwood Dr, Queen Creek, AZ
+   ID: safeway_Q01348
+   Machine ID: Q01348
+----------------------------------------
+4. Frys
+   Address: 10450 N 90th St, Scottsdale, AZ
+   ID: frys_Q00424
+   Machine ID: Q00424
+----------------------------------------
+5. Safeway
+   Address: 6501 E Greenway Pkwy Bldg 4, Scottsdale, AZ
+   ID: safeway_Q01340
+   Machine ID: Q01340
+----------------------------------------
+6. Safeway
+   Address: 7920 E Chaparral Rd, Scottsdale, AZ
+   ID: safeway_Q01350
+   Machine ID: Q01350
+----------------------------------------
+7. Frys
+   Address: 13982 W Waddell Rd, Surprise, AZ
+   ID: frys_Q00345
+   Machine ID: Q00345
+----------------------------------------
+8. Safeway
+   Address: 13828 W Waddell Rd, Surprise, AZ
+   ID: safeway_Q01296
+   Machine ID: Q01296
+----------------------------------------
+9. Safeway
+   Address: 2550 Bell Rd, Auburn, CA
+   ID: safeway_Q00918
+   Machine ID: Q00918
+----------------------------------------
+10. Vons
+   Address: 11800 De Palma Rd, Corona, CA
+   ID: vons_Q00511
+   Machine ID: Q00511
+----------------------------------------
+11. Lucky
+   Address: 1000 El Cerrito Plaza, El Cerrito, CA
+   ID: lucky_Q01758
+   Machine ID: Q01758
+----------------------------------------
+12. Vons
+   Address: 311 W Los Feliz Rd, Glendale, CA
+   ID: vons_Q00699
+   Machine ID: Q00699
+----------------------------------------
+13. Vons
+   Address: 163 S Turnpike Rd, Goleta, CA
+   ID: vons_Q01245
+   Machine ID: Q01245
+----------------------------------------
+14. Pavilions
+   Address: 4365 Glencoe Ave, Marina del Rey, CA
+   ID: pavilions_Q00512
+   Machine ID: Q00512
+----------------------------------------
+15. Vons
+   Address: 2495 Truxtun Rd Ste 28, San Diego, CA
+   ID: vons_Q01738
+   Machine ID: Q01738
+----------------------------------------
+16. WinCo Foods
+   Address: 2850 Pavilion Pkwy, Tracy, CA
+   ID: winco foods_Q01325
+   Machine ID: Q01325
+----------------------------------------
+17. King Soopers
+   Address: 10406 M.L.K. Jr Blvd, Denver, CO
+   ID: king soopers_Q00443
+   Machine ID: Q00443
+----------------------------------------
+18. Safeway
+   Address: 3851 S Hwy 74, Evergreen, CO
+   ID: safeway_Q00277
+   Machine ID: Q00277
+----------------------------------------
+19. King Soopers
+   Address: 2205 W Wildcat Reserve Pkwy, Highlands Ranch, CO
+   ID: king soopers_Q00108
+   Machine ID: Q00108
+----------------------------------------
+20. King Soopers
+   Address: 8673 S Quebec St, Highlands Ranch, CO
+   ID: king soopers_Q00274
+   Machine ID: Q00274
+----------------------------------------
+21. King Soopers
+   Address: 4000 Red Cedar Dr, Highlands Ranch, CO
+   ID: king soopers_Q00431
+   Machine ID: Q00431
+----------------------------------------
+22. King Soopers
+   Address: 8126 S Wadsworth Blvd, Littleton, CO
+   ID: king soopers_Q00102
+   Machine ID: Q00102
+----------------------------------------
+23. Acme Markets
+   Address: 1 University Dr, Newark, DE
+   ID: acme markets_Q01982
+   Machine ID: Q01982
+----------------------------------------
+24. Kroger
+   Address: 3330 Cobb Pkwy NW, Acworth, GA
+   ID: kroger_Q00602
+   Machine ID: Q00602
+----------------------------------------
+25. Kroger
+   Address: 12870 GA-9 N, Alpharetta, GA
+   ID: kroger_Q00809
+   Machine ID: Q00809
+----------------------------------------
+26. Kroger
+   Address: 227 Sandy Springs Pl NE, Atlanta, GA
+   ID: kroger_Q01261
+   Machine ID: Q01261
+----------------------------------------
+27. Kroger
+   Address: 3855 Buford Hwy NE, Brookhaven, GA
+   ID: kroger_Q01063
+   Machine ID: Q01063
+----------------------------------------
+28. Kroger
+   Address: 1745 Hwy 138 SE, Conyers, GA
+   ID: kroger_Q01255
+   Machine ID: Q01255
+----------------------------------------
+29. Kroger
+   Address: 4155 Lawrenceville Hwy NW, Lilburn, GA
+   ID: kroger_Q00643
+   Machine ID: Q00643
+----------------------------------------
+30. Kroger
+   Address: 3600 Dallas Hwy SW, Marietta, GA
+   ID: kroger_Q00790
+   Machine ID: Q00790
+----------------------------------------
+31. Kroger
+   Address: 2000 GA-155 N, McDonough, GA
+   ID: kroger_Q01917
+   Machine ID: Q01917
+----------------------------------------
+32. Kroger
+   Address: 1751 Newnan Xing Blvd E, Newnan, GA
+   ID: kroger_Q00480
+   Machine ID: Q00480
+----------------------------------------
+33. Kroger
+   Address: 3150 GA-34 E, Newnan, GA
+   ID: kroger_Q01074
+   Machine ID: Q01074
+----------------------------------------
+34. Kroger
+   Address: 1670 Scenic Hwy N, Snellville, GA
+   ID: kroger_Q01234
+   Machine ID: Q01234
+----------------------------------------
+35. Kroger
+   Address: 3618 Hwy 138 SE, Stockbridge, GA
+   ID: kroger_Q01075
+   Machine ID: Q01075
+----------------------------------------
+36. Kroger
+   Address: 12050 GA-92 Ste 112, Woodstock, GA
+   ID: kroger_Q01028
+   Machine ID: Q01028
+----------------------------------------
+37. Food 4 Less
+   Address: 2400 W Main St, Evanston, IL
+   ID: food 4 less_Q01737
+   Machine ID: Q01737
+----------------------------------------
+38. Jewel-Osco
+   Address: 21164 S LaGrange Rd, Frankfort, IL
+   ID: jewel-osco_Q00579
+   Machine ID: Q00579
+----------------------------------------
+39. Woodman's Market
+   Address: 27555 W IL-120, Lakemoor, IL
+   ID: woodman's market_Q01203
+   Machine ID: Q01203
+----------------------------------------
+40. Food 4 Less
+   Address: 2501 W North Ave, Melrose Park, IL
+   ID: food 4 less_Q01745
+   Machine ID: Q01745
+----------------------------------------
+41. Jewel-Osco
+   Address: 13460 S Rte 59, Plainfield, IL
+   ID: jewel-osco_Q01437
+   Machine ID: Q01437
+----------------------------------------
+42. Jewel-Osco
+   Address: 17117 S Harlem Ave, Tinley Park, IL
+   ID: jewel-osco_Q00580
+   Machine ID: Q00580
+----------------------------------------
+43. Kroger
+   Address: 5961 N State Rd 135, Greenwood, IN
+   ID: kroger_Q01779
+   Machine ID: Q01779
+----------------------------------------
+44. Kroger
+   Address: 680 Twin Aire Dr, Indianapolis, IN
+   ID: kroger_Q00527
+   Machine ID: Q00527
+----------------------------------------
+45. Safeway
+   Address: 15916 S Crain Hwy, Brandywine, MD
+   ID: safeway_Q01554
+   Machine ID: Q01554
+----------------------------------------
+46. Safeway
+   Address: 5485 Harpers Farm Rd A, Columbia, MD
+   ID: safeway_Q02079
+   Machine ID: Q02079
+----------------------------------------
+47. Safeway
+   Address: 5485 Harpers Farm Rd A, Columbia, MD
+   ID: safeway_Q02079
+   Machine ID: Q02079
+----------------------------------------
+48. Shaw's
+   Address: 690 Depot St, North Easton, MA
+   ID: shaw's_Q01567
+   Machine ID: Q01567
+----------------------------------------
+49. Shaw's
+   Address: 300 New State Hwy, Raynham, MA
+   ID: shaw's_Q01760
+   Machine ID: Q01760
+----------------------------------------
+50. Kroger
+   Address: 30935 Five Mile Rd, Livonia, MI
+   ID: kroger_Q00885
+   Machine ID: Q00885
+----------------------------------------
+51. Kroger
+   Address: 64660 Van Dyke Ave, Washington, MI
+   ID: kroger_Q01353
+   Machine ID: Q01353
+----------------------------------------
+52. Kroger
+   Address: 5161 Hampsted Village Center Way, New Albany, OH
+   ID: kroger_Q00673
+   Machine ID: Q00673
+----------------------------------------
+53. Kroger
+   Address: 12116 Sycamore Trace, Plain City, OH
+   ID: kroger_Q01058
+   Machine ID: Q01058
+----------------------------------------
+54. Fred Meyer
+   Address: 22075 NW NE Imbrie Dr, Hillsboro, OR
+   ID: fred meyer_Q00847
+   Machine ID: Q00847
+----------------------------------------
+55. Albertsons
+   Address: 7500 SW Baseline Rd, Hillsboro, OR
+   ID: albertsons_Q00949
+   Machine ID: Q00949
+----------------------------------------
+56. WinCo Foods
+   Address: 2585 NE OR-99W, McMinnville, OR
+   ID: winco foods_Q00716
+   Machine ID: Q00716
+----------------------------------------
+57. Safeway
+   Address: 2490 N OR-99W, Mcminnville, OR
+   ID: safeway_Q00837
+   Machine ID: Q00837
+----------------------------------------
+58. Albertsons
+   Address: 5755 S Main St, Springfield, OR
+   ID: albertsons_Q01128
+   Machine ID: Q01128
+----------------------------------------
+59. Acme Markets
+   Address: 3200-09 Red Lion Rd, Philadelphia, PA
+   ID: acme markets_Q01588
+   Machine ID: Q01588
+----------------------------------------
+60. Acme Markets
+   Address: 2101-41 Cottman Ave, Philadelphia, PA
+   ID: acme markets_Q01995
+   Machine ID: Q01995
+----------------------------------------
+61. Acme Markets
+   Address: 800 Second Street Pike, Richboro, PA
+   ID: acme markets_Q00529
+   Machine ID: Q00529
+----------------------------------------
+62. Shaw's
+   Address: 186 County Rd, Barrington, RI
+   ID: shaw's_Q01769
+   Machine ID: Q01769
+----------------------------------------
+63. Shaw's
+   Address: 8 Chapel View Blvd, Cranston, RI
+   ID: shaw's_Q01773
+   Machine ID: Q01773
+----------------------------------------
+64. Shaw's
+   Address: 1050 Willett Ave, Riverside, RI
+   ID: shaw's_Q01574
+   Machine ID: Q01574
+----------------------------------------
+65. Kroger
+   Address: 463 Sam Ridley Pkwy W, Smyrna, TN
+   ID: kroger_Q01017
+   Machine ID: Q01017
+----------------------------------------
+66. H-E-B
+   Address: 12400 State Hwy 71 W, Bee Cave, TX
+   ID: h-e-b_Q01649
+   Machine ID: Q01649
+----------------------------------------
+67. Albertsons
+   Address: 4351 FM2181, Corinth, TX
+   ID: albertsons_Q00953
+   Machine ID: Q00953
+----------------------------------------
+68. Kroger
+   Address: 1001 N Interstate 35 E Rd STE 500, DeSoto, TX
+   ID: kroger_Q00881
+   Machine ID: Q00881
+----------------------------------------
+69. Kroger
+   Address: 12400 Farm to Market 1960 Rd W, Houston, TX
+   ID: kroger_Q00402
+   Machine ID: Q00402
+----------------------------------------
+70. Kroger
+   Address: 9475 Farm to Market 1960 Bypass Rd W, Humble, TX
+   ID: kroger_Q00566
+   Machine ID: Q00566
+----------------------------------------
+71. Kroger
+   Address: 25651 US-59 N, Kingwood, TX
+   ID: kroger_Q01879
+   Machine ID: Q01879
+----------------------------------------
+72. Kroger
+   Address: 2750 E League City Pkwy, League City, TX
+   ID: kroger_Q00551
+   Machine ID: Q00551
+----------------------------------------
+73. Albertsons
+   Address: 1500 S Beltline Rd, Mesquite, TX
+   ID: albertsons_Q00482
+   Machine ID: Q00482
+----------------------------------------
+74. H-E-B
+   Address: 10161 W Grand Pkwy S, Richmond, TX
+   ID: h-e-b_Q00441
+   Machine ID: Q00441
+----------------------------------------
+75. H-E-B
+   Address: 9211 Farm to Market Rd 723, Richmond, TX
+   ID: h-e-b_Q01593
+   Machine ID: Q01593
+----------------------------------------
+76. Kroger
+   Address: 25050 FM 1093, Richmond, TX
+   ID: kroger_Q01835
+   Machine ID: Q01835
+----------------------------------------
+77. Kroger
+   Address: 3135 FM 528 Rd, Webster, TX
+   ID: kroger_Q00550
+   Machine ID: Q00550
+----------------------------------------
+78. Smith's
+   Address: 4080 W 9000 S, West Jordan, UT
+   ID: smith's_Q00795
+   Machine ID: Q00795
+----------------------------------------
+79. Smith's
+   Address: 5620 W 4100 S, West Valley City, UT
+   ID: smith's_Q00802
+   Machine ID: Q00802
+----------------------------------------
+80. Safeway
+   Address: 5980 Kingstowne Towne Ctr, Alexandria, VA
+   ID: safeway_Q01433
+   Machine ID: Q01433
+----------------------------------------
+81. Safeway
+   Address: 1624 Belle View Blvd, Alexandria, VA
+   ID: safeway_Q01434
+   Machine ID: Q01434
+----------------------------------------
+82. Safeway
+   Address: 12821 Braemar Village Pz, Bristow, VA
+   ID: safeway_Q01546
+   Machine ID: Q01546
+----------------------------------------
+83. Safeway
+   Address: 20500 Olympic Pl NE, Arlington, WA
+   ID: safeway_Q01770
+   Machine ID: Q01770
+----------------------------------------
+84. Fresh
+   Address: 3290 146th Pl SE Suite A, Bellevue, WA
+   ID: fresh_Q00152
+   Machine ID: Q00152
+----------------------------------------
+85. Fresh
+   Address: 3290 146th Pl SE Suite A, Bellevue, WA
+   ID: fresh_Q00152
+   Machine ID: Q00152
+----------------------------------------
