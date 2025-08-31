@@ -1,6 +1,15 @@
-requests
-beautifulsoup4
-fastapi
-uvicorn
-sqlalchemy
-pymysql
+# backend/requirements.txt
+# Core Backend Dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+python-multipart==0.0.6
+
+# Database
+sqlalchemy==2.0.23
+mysql-connector-python==8.1.0
+pymysql==1.1.0
+
+# Web Scraping & Data Processing
+requests==2.31.0
+beautifulsoup4==4.12.2

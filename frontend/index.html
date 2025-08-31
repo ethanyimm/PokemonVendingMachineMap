@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Vending Machine Finder</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" type="image/x-icon" href="images/pokeballicon.png">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📍 Pokémon Vending Machine Finder</h1>
+            <p>Find official Pokémon card vending machines near you</p>
+        </header>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search by state, city, or zip...">
+                <button onclick="searchLocations()">Search</button>
+            </div>
+            
+            <div class="button-group">
+                <button onclick="findNearby()" class="btn-primary">
+                    📍 Find Machines Near Me
+                </button>
+                <select id="stateFilter" onchange="filterByState()">
+                    <option value="">All States</option>
+                    <!-- States will be populated by JavaScript -->
+                </select>
+            </div>
+        </div>
+
+        <div class="stats">
+            <span id="locationCount">Loading locations...</span>
+        </div>
+
+        <div id="map"></div>
+
+        <footer>
+            <p>Data sourced from official Pokémon Center locations</p>
+            <div class="links">
+                <a href="privacy-policy.html">Privacy Policy</a>
+                <a href="terms-of-service.html">Terms of Service</a>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
