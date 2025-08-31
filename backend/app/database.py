@@ -1,22 +1,33 @@
+# backend/app/database.py
 import os
-import mysql.connector
 from dotenv import load_dotenv
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker, declarative_base
 
-# Load environment variables from .env file
+# Load .env file
 load_dotenv()
 
-def get_db_connection():
-    """Create and return a MySQL connection using .env variables"""
+DB_USER = os.getenv("DB_USER")
+DB_PASSWORD = os.getenv("DB_PASSWORD")
+DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_PORT = os.getenv("DB_PORT", "3306")
+DB_NAME = os.getenv("DB_NAME")
+
+DATABASE_URL = f"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+
+# Create engine
+engine = create_engine(DATABASE_URL)
+
+# Create session
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+
+# Create Base for models
+Base = declarative_base()
+
+# Dependency for FastAPI routes
+def get_db():
+    db = SessionLocal()
     try:
-        connection = mysql.connector.connect(
-            host=os.getenv('DB_HOST'),
-            port=os.getenv('DB_PORT'),
-            user=os.getenv('DB_USER'),
-            password=os.getenv('DB_PASSWORD'),  # This is now safe!
-            database=os.getenv('DB_NAME')
-        )
-        print("Working")
-        return connection
-    except mysql.connector.Error as error:
-        print(f"Error connecting to MySQL: {error}")
-        return None
+        yield db
+    finally:
+        db.close()
