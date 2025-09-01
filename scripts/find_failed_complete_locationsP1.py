@@ -18,12 +18,12 @@ def find_failed_geocodes():
     ]
     
     # Save failed locations to a separate file
-    failed_output_path = Path(__file__).parent.parent / 'data' / 'newest_failed_geocodes.json'
+    failed_output_path = Path(__file__).parent.parent / 'data' / 'new_failed_geocodesP1.json'
     with open(failed_output_path, 'w', encoding='utf-8') as f:
         json.dump(failed_locations, f, indent=2, ensure_ascii=False)
     
     # Also create a text file for easy manual lookup
-    text_output_path = Path(__file__).parent.parent / 'data' / 'newestfailed_geocodes.txt'
+    text_output_path = Path(__file__).parent.parent / 'data' / 'new_failed_geocodesP1.txt'
     with open(text_output_path, 'w', encoding='utf-8') as f:
         f.write("FAILED GEOCODING - NEED MANUAL COORDINATES\n")
         f.write("=" * 50 + "\n\n")

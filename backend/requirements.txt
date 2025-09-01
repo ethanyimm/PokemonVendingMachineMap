@@ -13,3 +13,6 @@ pymysql==1.1.0
 # Web Scraping & Data Processing
 requests==2.31.0
 beautifulsoup4==4.12.2
+
+# Geocoding (optional additions)
+geopy==2.4.0
