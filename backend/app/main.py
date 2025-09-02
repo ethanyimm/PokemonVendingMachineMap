@@ -22,6 +22,18 @@ app.add_middleware(
 async def root():
     return {"message": "Pokemon Vending Machine API is running!"}
 
+@app.get("/api/debug-env")
+async def debug_env():
+    import os
+    return {
+        "MYSQLUSER": os.getenv("MYSQLUSER"),
+        "MYSQLPASSWORD": os.getenv("MYSQLPASSWORD"),
+        "MYSQLHOST": os.getenv("MYSQLHOST"),
+        "MYSQLPORT": os.getenv("MYSQLPORT"),
+        "MYSQLDATABASE": os.getenv("MYSQLDATABASE")
+    }
+
+
 @app.get("/api/locations")
 async def get_all_locations(db: Session = Depends(get_db)):
     """Get all vending machine locations"""
