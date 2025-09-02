@@ -1,18 +1,15 @@
-# backend/app/database.py
 import os
-from dotenv import load_dotenv
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
 
-# Load .env file
-load_dotenv()
+# Use Railway-provided environment variables
+DB_USER = os.getenv("mysqluser")
+DB_PASSWORD = os.getenv("mysqlpassword")
+DB_HOST = os.getenv("mysqlhost")
+DB_PORT = os.getenv("mysqlport", "3306")
+DB_NAME = os.getenv("mysqldatabase")
 
-DB_USER = os.getenv("DB_USER")
-DB_PASSWORD = os.getenv("DB_PASSWORD")
-DB_HOST = os.getenv("DB_HOST", "localhost")
-DB_PORT = os.getenv("DB_PORT", "3306")
-DB_NAME = os.getenv("DB_NAME")
-
+# Build connection string
 DATABASE_URL = f"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
 
 # Create engine
