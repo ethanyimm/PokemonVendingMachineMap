@@ -33,6 +33,11 @@ async def debug_env():
         "MYSQLDATABASE": os.getenv("MYSQLDATABASE")
     }
 
+@app.get("/api/debug-count")
+async def debug_count(db: Session = Depends(get_db)):
+    count = db.query(VendingLocation).count()
+    return {"total_locations": count}
+
 
 @app.get("/api/locations")
 async def get_all_locations(db: Session = Depends(get_db)):
