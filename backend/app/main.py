@@ -38,6 +38,10 @@ async def debug_count(db: Session = Depends(get_db)):
     count = db.query(VendingLocation).count()
     return {"total_locations": count}
 
+@app.get("/api/debug-raw")
+async def debug_raw(db: Session = Depends(get_db)):
+    result = db.execute("SHOW TABLES;").fetchall()
+    return {"tables": [row[0] for row in result]}
 
 @app.get("/api/locations")
 async def get_all_locations(db: Session = Depends(get_db)):
