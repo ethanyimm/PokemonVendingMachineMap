@@ -1,4 +1,5 @@
 # backend/app/main.py
+import traceback
 from fastapi import FastAPI, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
@@ -40,8 +41,12 @@ async def debug_count(db: Session = Depends(get_db)):
 
 @app.get("/api/debug-raw")
 async def debug_raw(db: Session = Depends(get_db)):
-    result = db.execute("SHOW TABLES;").fetchall()
-    return {"tables": [row[0] for row in result]}
+    try:
+        result = db.execute("SHOW TABLES;").fetchall()
+        return {"tables": [row[0] for row in result]}
+    except Exception as e:
+        print("DB ERROR:", traceback.format_exc())  # <- full error goes to Railway logs
+        raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
 
 @app.get("/api/locations")
 async def get_all_locations(db: Session = Depends(get_db)):
