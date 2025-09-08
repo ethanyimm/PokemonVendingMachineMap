@@ -30,7 +30,7 @@ async function initMap() {
 // Load all locations from API
 async function loadLocations() {
   try {
-    const response = await fetch('http://localhost:8000/api/locations');
+    const response = await fetch('https://pokemon-backend-1080761631887.us-central1.run.app/api/locations');
     allLocations = await response.json();
 
     // Update location count
@@ -141,8 +141,8 @@ function findNearby() {
       // Load nearby locations from API
       try {
         const response = await fetch(
-          `http://localhost:8000/api/locations/nearby?lat=${latitude}&lng=${longitude}&radius_km=50`
-        );
+        `https://pokemon-backend-1080761631887.us-central1.run.app/api/locations/nearby?lat=${latitude}&lng=${longitude}&radius_km=50`
+      );
         const nearbyLocations = await response.json();
 
         addMarkersToMap(nearbyLocations);

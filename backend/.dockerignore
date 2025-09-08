@@ -1,0 +1,15 @@
+.env
+.env.local
+.env.development
+.env.production
+__pycache__
+*.pyc
+.pytest_cache
+.coverage
+.git
+.gitignore
+README.md
+docs/
+tests/
+.venv
+venv/
